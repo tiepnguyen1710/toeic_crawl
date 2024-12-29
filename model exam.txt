@@ -1,0 +1,26 @@
+Array.from(
+      { length: TOEIC_PARTS.Part1.groupQuestion },
+      (_, groupIndex) => ({
+        validate: validateState.blank,
+        audioUrl: null,
+        audioPreview: "",
+        image: [],
+        imagePreview: [],
+        transcript: "",
+        questionData: Array.from(
+          { length: TOEIC_PARTS.Part1.questionPerGroup },
+          (_, questionIndex) => ({
+            questionNumber:
+              groupIndex * TOEIC_PARTS.Part1.questionPerGroup +
+              questionIndex +
+              1,
+            question: "",
+            explain: "",
+            answer: Array.from(
+              { length: TOEIC_PARTS.Part1.answerCount },
+              (_, index) => `Statement ${String.fromCharCode(65 + index)}`,
+            ),
+            correctAnswer: "",
+          }),
+        ),
+      }),

@@ -1,0 +1,135 @@
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/ets2023/audio/ets-test-01-part-1-1.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/ets2023/audio/ets-test-01-part-1-1.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    <div class='context-content context-image'>
+        <img class='lazyel' data-src='https://s4-media1.study4.com/media/ets2023/img/1/image3.png' src='/media/ets2023/img/1/image3.png'>
+    </div>
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-5ac5850b-7ffc-4975-9008-a089d9ad0db8" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-5ac5850b-7ffc-4975-9008-a089d9ad0db8"><p><span>(A) A woman is standing near a desk.</span></p><p><span>(B) A woman is climbing some stairs.</span></p><p><span>(C) A woman is entering a building.</span></p><p><span>(D) A woman is looking at a map.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='166845' id='question-wrapper-166845'>
+            
+            <div class='question-number'  data-qid="166845" >
+                <strong>1</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='166845' type="radio" name="question-166845"
+        id="question-166845-A" value="A">
+    <label class="form-check-label" for="question-166845-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='166845' type="radio" name="question-166845"
+        id="question-166845-B" value="B">
+    <label class="form-check-label" for="question-166845-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='166845' type="radio" name="question-166845"
+        id="question-166845-C" value="C">
+    <label class="form-check-label" for="question-166845-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            checked
+            class="form-check-input correct"
+        
+        data-qid='166845' type="radio" name="question-166845"
+        id="question-166845-D" value="D">
+    <label class="form-check-label" for="question-166845-D">
+        D. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-166845" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-166845"><p><span>(A) Một người phụ nữ đang đứng cạnh chiếc bạn.</span></p><p><span>(B) Một người phụ nữ đang đi lên những bậc thang</span></p><p><span>(C) Một người phụ nữ đang bước vào toà nhà.</span></p><p><span>(D) Một người phụ nữ đang nhìn vào tấm bản đồ.</span></p></div>
+        </div>
+        <br/><br/>
+        
