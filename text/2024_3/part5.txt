@@ -1,0 +1,5377 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<!DOCTYPE html>
+<html lang='vi'>
+    <head>
+        
+        
+<script type="application/ld+json">
+    {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "STUDY4",
+    "url" : "https://study4.com",
+    "sameAs" : [
+        "https://facebook.com/study4.support"
+    ]
+    }
+</script>
+
+        
+
+        
+        <meta name="facebook-domain-verification" content="cw9q3grerylvdfmys2f7g3kveb68vj" />
+        
+        
+
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-64Z8KN7V8D"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            
+
+                gtag('config', 'G-64Z8KN7V8D', {
+                    'user_id': '97881'
+                });
+
+                gtag('set', {'user_id': '97881'});
+                //ga('set', 'userId', '97881');
+            
+          </script>
+        
+
+        
+
+        <title>Đáp án chi tiết: 2024 Practice Set TOEIC Test 3 - STUDY4</title>
+        <link rel=dns-prefetch href=//fonts.googleapis.com>
+        <meta charset="utf-8">
+        <meta name="description" CONTENT="STUDY4 - học tiếng Anh và luyện thi online TOEIC, IELTS, SAT, ACT, GRE, GMAT.">
+        <meta name="keywords" content="toeic,ielts,online english learning,cambridge ielts,bc ielts,real ielts tests,toeic ets,test prep services,online tutor,luyện thi online,tiếng Anh online,tiếng Anh giao tiếp,tiếng Anh cơ bản,tiếng anh cho người mất gốc" />
+        <link rel="canonical" href="https://study4.com/tests/4694/2024-practice-set-toeic-test-3/results/21999629/details/" />
+        <link rel="icon" href="/static/img/study4_new_icon_blk.png"/>
+        <link rel="apple-touch-icon" href="/static/img/study4_new_logo_square.png"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="turbolinks-cache-control" content="no-cache">
+        <meta property="fb:app_id" content="203430341284880" />
+        <meta property="og:url" content="https://study4.com/tests/4694/2024-practice-set-toeic-test-3/results/21999629/details/" />
+        <meta property=”og:locale” content=”vi_VN” />
+        <meta property="og:title" content="STUDY4" />
+        <meta property="og:description" content="STUDY4 - học tiếng Anh và luyện thi online TOEIC, IELTS, SAT, ACT, GRE, GMAT." />
+        <meta property="og:image" content="/static/img/study4_new_logo.png" />
+
+        
+        <meta property="og:type" content="article" />
+        
+
+        
+        <!-- <link rel=stylesheet id=flatsome-googlefonts-css  href='//fonts.googleapis.com/css?family=Roboto%3Aregular%2C700%2Cregular%2C700%2C500&#038;display=swap&#038;ver=3.9' type=text/css media=all> -->
+        
+<link rel="preload" as="style" href="/static/css/fontawesome.min.css?v=1735269535" onload="this.rel='stylesheet'">
+<noscript>
+    <link rel="stylesheet" href="/static/css/fontawesome.min.css?v=1735269535">
+</noscript>
+
+        
+<link rel="preload" as="style" href="/static/dist/vendor.ad60eb658fc650d75097.min.css?v=1735269535" onload="this.rel='stylesheet'">
+<noscript>
+    <link rel="stylesheet" href="/static/dist/vendor.ad60eb658fc650d75097.min.css?v=1735269535">
+</noscript>
+
+        <link rel='stylesheet' href="/static/dist/main.651d8fa8cadf332cd75a.min.css?v=1735269535" />
+
+        
+
+        
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            
+                
+                fbq('init', '303753638121242', {'external_id': "97881"});
+                
+                fbq('init', '6317196315061063', {'external_id': "97881"});
+                
+            
+
+            fbq('trackSingle', '6317196315061063', 'PageView');
+        </script>
+        
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=303753638121242&ev=PageView&noscript=1"/></noscript>
+        
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=6317196315061063&ev=PageView&noscript=1"/></noscript>
+        
+        <!-- End Facebook Pixel Code -->
+        
+
+        
+        
+        <script>
+            !function (w, d, t) {
+            w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+                ttq.load('COLIHEBC77U9C4QOD78G');
+
+                
+                ttq.identify({
+                    "email": "e9d98c50b9feba0926ec016742d93ab7b646fba1a8d497e82aac538311a5eff2",
+                    "external_id": "2f950473c825fd1820b30752ac6652e6201f91159a8a9260bdadb44cf035c730"
+                });
+                
+
+                ttq.page();
+            }(window, document, 'ttq');
+        </script>
+        
+        <script>
+            !function (w, d, t) {
+            w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+                ttq.load('CORPTQRC77UD072DBJ40');
+
+                
+                ttq.identify({
+                    "email": "e9d98c50b9feba0926ec016742d93ab7b646fba1a8d497e82aac538311a5eff2",
+                    "external_id": "2f950473c825fd1820b30752ac6652e6201f91159a8a9260bdadb44cf035c730"
+                });
+                
+
+                ttq.page();
+            }(window, document, 'ttq');
+        </script>
+        
+        
+
+        
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript" >
+            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym(82192363, "init", {
+                clickmap:false,
+                trackLinks:true,
+                accurateTrackBounce:true,
+                webvisor:false,
+                ecommerce:"dataLayer"
+            });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/82192363" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+        
+
+        <script>
+            window.resizeIframe = function(obj) { obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px'; }
+        </script>
+    </head>
+    <body class='gray-bg'>
+        
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v20.0&appId=203430341284880&autoLogAppEvents=1" nonce="1d3MdMH8"></script>
+        
+        
+
+        
+        <div class='site-elevator'>
+            <div class='elevator-item elevator-open d-md-none'>
+                <span class='fal fa-chevron-left'></span>
+            </div>
+            <div class='elevator-item elevator-close d-md-none'>
+                <span class='fal fa-chevron-right'></span>
+            </div>
+            <div class='elevator-item'>
+                <div class='jqdictionary-show' target='#'>
+                    <img src='/static/img/dictionary.png'/>
+                    <div class='elevator-text'>Từ điển</div>
+                </div>
+            </div>
+            <div class='jqdictionary-wrapper'>
+                <span class='jqdictionary-expand fal fa-plus-square'></span>
+                <span class='jqdictionary-close far fa-times'></span>
+                <div class='h6 font-500 font-sm'>
+                    <a class='link jqdictionary-tab active' data-href='https://m.dict.laban.vn/'>Anh-Việt</a> |
+                    <a class='link jqdictionary-tab' data-href='https://www.wordreference.com/definition/'>WordReference</a> |
+                    <a class='link jqdictionary-tab' data-href='https://onelook.com/thesaurus/'>Thesaurus</a> |
+                    <a class='link jqdictionary-tab' data-href='https://vtudien.com/trung-viet/dictionary/nghia-cua-tu-%E4%BD%A0%E5%A5%BD'>Tiếng Trung</a>
+                </div>
+                <div class='jqdictionary-iframe'>
+                    <iframe loading="lazy" frameborder='0'></iframe>
+                </div>
+            </div>
+
+
+            
+            <div class='elevator-item'>
+                <a target='_blank' href='https://m.me/study4.support'>
+                    <img src='/static/img/messenger.png'/>
+                </a>
+            </div>
+            
+
+            <div class='elevator-item'>
+                <a target='_blank' href='https://zalo.me/study4'>
+                    <img src='/static/img/zalo.jpg' />
+                </a>
+            </div>
+
+
+            
+            <div class='elevator-item site-scrollTop' onclick="window.topFunction()" id="site-scrollTop" title="Go to top" style='display: none;'>
+                <span class='fal fa-chevron-up'></span>
+            </div>
+        </div>
+        
+
+        
+
+        <div class='site-wrapper'>
+
+            
+
+            
+
+
+<div class='topnav1 topnav-wrapper'>
+    <div class="topnav-container">
+        <nav class="navbar  navbar-expand-lg">
+            <span class="navbar-brand">
+                <a class='topnav-brand' href='/'>
+                    <img class='topnav-logo' src='/static/img/study4_new_logo_sm.png' alt='STUDY4' />
+                    
+                </a>
+            </span>
+            <button class="navbar-toggler pull-xs-right d-lg-none" type="button" data-toggle="collapse"
+                data-target="#navbar-collapse">
+                &#9776;
+                
+            </button>
+            <div class="d-lg-block navbar-collapse justify-content-end collapse" id="navbar-collapse">
+                
+                <ul class="nav">
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/my-account/courses/">Khoá học của tôi</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/courses/online/">Chương trình học</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/tests/">Đề thi online</a>
+                    </li>
+                    
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/flashcards/">
+                            Flashcards
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/posts/">Blog</a>
+                    </li>
+
+                    
+
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/courses/activate/">
+                            Kích hoạt tài khoản
+                        </a>
+                    </li>
+                    
+                    <li class="nav-item user-topnav dropdown d-none d-lg-block">
+                        <a class="nav-link dropdown-toggle user-topnav-profile" href="/my-account/" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class='account-profile-img'>
+                                
+                                <img src="/static/img/user_icon.png" alt="tiepnguyen.17102003">
+                                
+                            </span>
+                            
+                        </a>
+
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <div>
+                                <h6 class="dropdown-header"> Thông báo </h6>
+                                <div id='new-notis-dropdown-content' class='jqhtml-loader dropdown-text' data-href='/notifications/newest/'></div>
+                            </div>
+
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/studyplan/">Lịch học của tôi</a>
+                            <a class="dropdown-item" href="/my-account/">Trang cá nhân</a>
+                            <a class="dropdown-item" href="/logout/">Đăng xuất</a>
+                        </div>
+                    </li>
+                    <li class="nav-item d-lg-none">
+                        <a class="nav-link" href="/notifications/">Thông báo </a>
+                    </li>
+                    <li class="nav-item d-lg-none">
+                        <a class="nav-link" href="/studyplan/">Lịch học của tôi</a>
+                    </li>
+                    <li class="nav-item d-lg-none">
+                        <a class="nav-link" href="/my-account/">Trang cá nhân</a>
+                    </li>
+                    <li class="nav-item d-lg-none">
+                        <a class="nav-link" href="/logout/">Đăng xuất</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+
+            
+
+            
+            <div class='site-content-wrapper'>
+                
+
+                
+
+                
+                
+                
+                
+
+                
+
+                
+
+                
+                <div class='content-wrapper'>
+                    
+                    
+<div class='xl-container'>
+    <h1 class='h3 text-center'>Đáp án chi tiết: 2024 Practice Set TOEIC Test 3
+        <a class='btn btn-sky btn-sm' data-toggle="modal" data-target="#share-modal">Chia sẻ</a>
+        <a class='btn btn-sky btn-sm' href="/tests/4694/2024-practice-set-toeic-test-3/results/21999629/">Quay về trang kết quả</a>
+    </h1>
+
+
+    <div class='test-wrapper'>
+        <div class='test-content contentblock' id='test-content'>
+            <div class='test-controls'>
+                <div class="custom-control custom-switch mb-2">
+                    <input type="checkbox" class="custom-control-input showtranscript-toggle" id="showtranscript-toggle">
+                    <label class="custom-control-label font-sm" for="showtranscript-toggle"><i>Hiện toàn bộ transcript/đáp án</i></label>
+                </div>
+
+                
+                <div class="custom-control custom-switch highlight-toggle-box mb-3">
+                    <input type="checkbox" checked class="custom-control-input highlight-toggle" id="highlight-toggle">
+                    <label class="custom-control-label" for="highlight-toggle"><i>Highlight nội dung</i></label>
+                    <span class='ml-1 far fa-exclamation-circle' data-toggle="tooltip" data-placement="top"
+                        title="Bôi đen text để highlight nội dung. Bạn có thể thay đổi màu sắc hoặc thêm ghi chú."></span>
+                    <div class="btn-group">
+                        <button class="ml-2 btn btn-sky btn-sm dropdown-toggle" type="button" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">Lưu/khôi phục</button>
+                        <div class="dropdown-menu no-toggle">
+                            <div class='dropdown-item highlight-clear'>
+                                <a>Xoá tất cả highlights</a>
+                            </div>
+                            <div class='dropdown-item highlight-store' data-target='/highlights/store/results/21999629/?'>
+                                <a>Lưu highlight</a>
+                                <span class='ml-1 far fa-exclamation-circle' data-toggle="tooltip" data-placement="top"
+                                title="Click vào đây để lưu lại highlight cho những lần tới."></span>
+                            </div>
+                            <div class='dropdown-divider'></div>
+                            <div class='text-muted px-4'>
+                                Khôi phục highlight
+                                <span class='ml-1 far fa-exclamation-circle' data-toggle="tooltip" data-placement="top"
+                                title="Lựa chọn highlight bạn muốn khôi phục"></span>
+                            </div>
+                            <div class='dropdown-item'>
+                                <select class='custom-select custom-select-sm highlight-storeditems'  data-target='/highlights/restore/results/21999629/'>
+                                    <option value='null' disabled selected>-- Chọn highlight --</option>
+                                    
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+
+            <ul class="nav nav-pills nav-horizontal mb-4" id="pills-tab" role="tablist">
+                
+                <li class="nav-item" role="presentation">
+                    <a class="nav-link active" id="pills-10137-tab"
+                        data-toggle="pill" href="#partcontent-10137" role="tab"
+                        aria-controls="pills-10137" aria-selected="true">Part 5</a>
+                </li>
+                
+            </ul>
+
+            <div class="tab-content" id="pills-tabContent">
+                
+                
+                <div class="tab-pane active show" id="partcontent-10137"
+                    role="tabpanel" aria-labelledby="pills-tab">
+
+                    
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+
+                    <div class='test-questions-wrapper'>
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173026' id='question-wrapper-173026'>
+            
+            <div class='question-number'  data-qid="173026" >
+                <strong>101</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    --  your order is being processed, please call customer service with any questions.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            checked
+            class="form-check-input wrong"
+        
+        data-qid='173026' type="radio" name="question-173026"
+        id="question-173026-A" value="A">
+    <label class="form-check-label" for="question-173026-A">
+        A. Still
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173026' type="radio" name="question-173026"
+        id="question-173026-B" value="B">
+    <label class="form-check-label" for="question-173026-B">
+        B. Either
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173026' type="radio" name="question-173026"
+        id="question-173026-C" value="C">
+    <label class="form-check-label" for="question-173026-C">
+        C. While
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173026' type="radio" name="question-173026"
+        id="question-173026-D" value="D">
+    <label class="form-check-label" for="question-173026-D">
+        D. Also
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173026" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173026"><p><b>Dịch đáp án:</b></p><p><span> </span><span>-------  </span><span>đơn đặt hàng của bạn đang được xử lý, vui lòng gọi cho bộ phận dịch vụ khách hàng nếu có bất kỳ câu hỏi nào.</span></p><p><span>(A) Vẫn vậy</span></p><p><span>(B) Hoặc là</span></p><p><span>(C) Trong khi</span></p><p><span>(D) Ngoài ra</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng. </span></p><p><span>=&gt; Đáp án (C)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173027' id='question-wrapper-173027'>
+            
+            <div class='question-number'  data-qid="173027" >
+                <strong>102</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    ABC Truck Supplies has the -- selection of mufflers in the state.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173027' type="radio" name="question-173027"
+        id="question-173027-A" value="A">
+    <label class="form-check-label" for="question-173027-A">
+        A. natural
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173027' type="radio" name="question-173027"
+        id="question-173027-B" value="B">
+    <label class="form-check-label" for="question-173027-B">
+        B. widest
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173027' type="radio" name="question-173027"
+        id="question-173027-C" value="C">
+    <label class="form-check-label" for="question-173027-C">
+        C. overall
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173027' type="radio" name="question-173027"
+        id="question-173027-D" value="D">
+    <label class="form-check-label" for="question-173027-D">
+        D. positive
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173027" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173027"><p><b>Dịch đáp án:</b></p><p><span>ABC Truck Supplies có lựa chọn </span><span>------- </span><span> về ống xả trong tiểu bang.</span></p><p><span>(A) tự nhiên </span></p><p><span>(B) lớn nhất </span></p><p><span>(C) tổng thể </span></p><p><span>(D) tích cực</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (B) </span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173028' id='question-wrapper-173028'>
+            
+            <div class='question-number'  data-qid="173028" >
+                <strong>103</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Sharswood Landscaping has received dozens of five-star -- for its work.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173028' type="radio" name="question-173028"
+        id="question-173028-A" value="A">
+    <label class="form-check-label" for="question-173028-A">
+        A. reviews
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173028' type="radio" name="question-173028"
+        id="question-173028-B" value="B">
+    <label class="form-check-label" for="question-173028-B">
+        B. reviewer
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173028' type="radio" name="question-173028"
+        id="question-173028-C" value="C">
+    <label class="form-check-label" for="question-173028-C">
+        C. reviewed
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173028' type="radio" name="question-173028"
+        id="question-173028-D" value="D">
+    <label class="form-check-label" for="question-173028-D">
+        D. reviewing
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173028" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173028"><p><b>Dịch đáp án:</b></p><p><span>Sharswood Landscaping đã nhận được hàng tá </span><span>-------</span><span> năm sao cho công việc của mình.</span></p><p><span>(A) đánh giá</span></p><p><span>(B) người đánh giá</span></p><p><span>(C) đã xem xét</span></p><p><span>(D) xem xét</span></p><p><span>Vì chỗ trống cần điền đứng sau tính từ five-star do đó nó sẽ là một danh từ. Trong 4 đáp án có thể chọn được 2 đáp án A và B đều là danh từ. Xét về ngữ cảnh, câu đang nói đến việc vườn Sharwood đã nhận được hàng tá đánh giá năm sao cho sự làm việc của họ, do đó reviews (sự đánh giá) là đáp án đúng, reviewer (người đánh giá) không phù hợp với ngữ cảnh của câu.</span></p><p><span>=&gt; Đáp án (A)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173029' id='question-wrapper-173029'>
+            
+            <div class='question-number'  data-qid="173029" >
+                <strong>104</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Dr. Cho will visit the Teledarr Lab during the annual open house, since -- may not have another chance to see it.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173029' type="radio" name="question-173029"
+        id="question-173029-A" value="A">
+    <label class="form-check-label" for="question-173029-A">
+        A. hers
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173029' type="radio" name="question-173029"
+        id="question-173029-B" value="B">
+    <label class="form-check-label" for="question-173029-B">
+        B. she
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173029' type="radio" name="question-173029"
+        id="question-173029-C" value="C">
+    <label class="form-check-label" for="question-173029-C">
+        C. her
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173029' type="radio" name="question-173029"
+        id="question-173029-D" value="D">
+    <label class="form-check-label" for="question-173029-D">
+        D. herself
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173029" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173029"><p><b>Dịch đáp án:</b></p><p><span>Tiến sĩ Cho sẽ đến thăm Phòng thí nghiệm Teledarr trong buổi khai mạc hàng năm, vì ------- có thể không có cơ hội nào khác để xem nó.</span></p><p><span>(A) của cô ấy</span></p><p><span>(B) cô ấy</span></p><p><span>(C) của cô ấy</span></p><p><span>(D) bản thân cô ấy</span></p><p><span>Phía sau since sẽ là một mệnh đề hoàn chỉnh, tuy nhiên ở đây mới chỉ có động từ chính là may not have, chưa có chủ ngữ do đó cần điền một đại từ nhân xưng làm chủ ngữ cho câu. Trong 4 đáp án thì đáp án B (she) là đúng. </span></p><p><span>=&gt; Đáp án (B)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173030' id='question-wrapper-173030'>
+            
+            <div class='question-number'  data-qid="173030" >
+                <strong>105</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Dorn Department Store decided to -- its already large selection of housewares.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173030' type="radio" name="question-173030"
+        id="question-173030-A" value="A">
+    <label class="form-check-label" for="question-173030-A">
+        A. create
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173030' type="radio" name="question-173030"
+        id="question-173030-B" value="B">
+    <label class="form-check-label" for="question-173030-B">
+        B. enforce
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173030' type="radio" name="question-173030"
+        id="question-173030-C" value="C">
+    <label class="form-check-label" for="question-173030-C">
+        C. apply
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173030' type="radio" name="question-173030"
+        id="question-173030-D" value="D">
+    <label class="form-check-label" for="question-173030-D">
+        D. expand
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173030" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173030"><p><b>Dịch đáp án:</b></p><p><span>Cửa hàng bách hóa Dorn quyết định </span><span>-------</span><span> bộ sưu tập đồ gia dụng vốn đã rất phong phú của mình.</span></p><p><span>(A) tạo ra </span></p><p><span>(B) thực thi </span></p><p><span>(C) áp dụng </span></p><p><span>(D) mở rộng</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173031' id='question-wrapper-173031'>
+            
+            <div class='question-number'  data-qid="173031" >
+                <strong>106</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    We -- that you bring a portfolio of work samples to the interview.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173031' type="radio" name="question-173031"
+        id="question-173031-A" value="A">
+    <label class="form-check-label" for="question-173031-A">
+        A. was asking
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173031' type="radio" name="question-173031"
+        id="question-173031-B" value="B">
+    <label class="form-check-label" for="question-173031-B">
+        B. having asked
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173031' type="radio" name="question-173031"
+        id="question-173031-C" value="C">
+    <label class="form-check-label" for="question-173031-C">
+        C. ask
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173031' type="radio" name="question-173031"
+        id="question-173031-D" value="D">
+    <label class="form-check-label" for="question-173031-D">
+        D. asks
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173031" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173031"><p><b>Dịch đáp án:</b></p><p><span>Chúng tôi </span><span>-------</span><span> bạn mang theo hồ sơ các sản phẩm mẫu đến cuộc phỏng vấn.</span></p><p><span>(A) đang yêu cầu</span></p><p><span>(B) đã yêu cầu</span></p><p><span>(C) yêu cầu</span></p><p><span>(D) yêu cầu</span></p><p><span>Chỗ trống cần điền sẽ là một động từ vì câu chưa có động từ chính, trong đó We là chủ ngữ và mệnh đề that sau khoảng trống là tân ngữ. Vì phải có động từ số nhiều phù hợp với chủ ngữ số nhiều We, nên đáp án (C) ask là câu trả lời đúng. </span></p><p><span>=&gt; Đáp án (C)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173032' id='question-wrapper-173032'>
+            
+            <div class='question-number'  data-qid="173032" >
+                <strong>107</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Members of the Bold Stone Farm Store receive -- discounts on all purchases.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173032' type="radio" name="question-173032"
+        id="question-173032-A" value="A">
+    <label class="form-check-label" for="question-173032-A">
+        A. depth
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173032' type="radio" name="question-173032"
+        id="question-173032-B" value="B">
+    <label class="form-check-label" for="question-173032-B">
+        B. deepen
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173032' type="radio" name="question-173032"
+        id="question-173032-C" value="C">
+    <label class="form-check-label" for="question-173032-C">
+        C. deep
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173032' type="radio" name="question-173032"
+        id="question-173032-D" value="D">
+    <label class="form-check-label" for="question-173032-D">
+        D. deeply
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173032" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173032"><p><b>Dịch đáp án:</b></p><p><span>Các thành viên của Bold Stone Farm Store nhận được giảm giá -------cho tất cả các giao dịch.</span></p><p><span>(A) độ sâu</span></p><p><span>(B) làm sâu sắc thêm</span></p><p><span>(C) sâu</span></p><p><span>(D) sâu </span></p><p><span>Chỗ trống cần điền đứng trước danh từ discounts (sự giảm giá) nên ta cần điền một tính từ để bổ nghĩa cho danh từ trên. Trong 4 đáp án chỉ có deep là tính từ phù hợp.</span></p><p><span>=&gt; Đáp án (C)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173033' id='question-wrapper-173033'>
+            
+            <div class='question-number'  data-qid="173033" >
+                <strong>108</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    If your plans change, please contact us at least 24 hours before the time of your --
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173033' type="radio" name="question-173033"
+        id="question-173033-A" value="A">
+    <label class="form-check-label" for="question-173033-A">
+        A. reserved
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173033' type="radio" name="question-173033"
+        id="question-173033-B" value="B">
+    <label class="form-check-label" for="question-173033-B">
+        B. reservation
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173033' type="radio" name="question-173033"
+        id="question-173033-C" value="C">
+    <label class="form-check-label" for="question-173033-C">
+        C. reservable
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173033' type="radio" name="question-173033"
+        id="question-173033-D" value="D">
+    <label class="form-check-label" for="question-173033-D">
+        D. reserve
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173033" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173033"><p><b>Dịch đáp án:</b></p><p><span>Nếu kế hoạch của bạn thay đổi, vui lòng liên hệ với chúng tôi ít nhất 24 giờ trước thời gian ------- của bạn.</span></p><p><span>(A) kín đáo</span></p><p><span>(B) đặt chỗ</span></p><p><span>(C) có thể đặt trước</span></p><p><span>(D) dự trữ</span></p><p><span>Chỗ trống cần điền đứng phía sau your nên nó sẽ là một danh từ, your ___ có nghĩa là “cái gì đó của bạn”. Trong 4 đáp án chỉ có danh từ reservation (sự đặt trước) là danh từ phù hợp, do đó B là đáp án đúng.</span></p><p><span>=&gt; Đáp án (B)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173034' id='question-wrapper-173034'>
+            
+            <div class='question-number'  data-qid="173034" >
+                <strong>109</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Hold the tomato seedling gently by the stem in order to avoid harming -- roots.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173034' type="radio" name="question-173034"
+        id="question-173034-A" value="A">
+    <label class="form-check-label" for="question-173034-A">
+        A. its
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173034' type="radio" name="question-173034"
+        id="question-173034-B" value="B">
+    <label class="form-check-label" for="question-173034-B">
+        B. at
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173034' type="radio" name="question-173034"
+        id="question-173034-C" value="C">
+    <label class="form-check-label" for="question-173034-C">
+        C. that
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173034' type="radio" name="question-173034"
+        id="question-173034-D" value="D">
+    <label class="form-check-label" for="question-173034-D">
+        D. in
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173034" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173034"><p><b>Dịch đáp án:</b></p><p><span>Giữ cây cà chua nhẹ nhàng bằng thân cây để tránh làm tổn thương rễ -------.</span></p><p><span>(A) của nó</span></p><p><span>(B) tại</span></p><p><span>(C) cái đó</span></p><p><span>(D) trong</span></p><p><span>Xét về ngữ cảnh của câu, chỗ trống cần điền đứng trước danh từ roots (rễ cây) và đứng sau harming (làm hư hại) do đó cần điền một tính từ sở hữu. Liên từ in order to nhằm kết nối nghĩa giữa 2 vế câu với nhau, vế sau đang nói đến việc tránh làm hại đến rễ cây của nó, nó ở đây ám chỉ tomato seedling phía trước. Do đó trong 4 đáp án, its là đáp án đúng.</span></p><p><span>=&gt; Đáp án (A)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173035' id='question-wrapper-173035'>
+            
+            <div class='question-number'  data-qid="173035" >
+                <strong>110</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    At the registration table, be sure to collect your name tag -- entering the conference.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173035' type="radio" name="question-173035"
+        id="question-173035-A" value="A">
+    <label class="form-check-label" for="question-173035-A">
+        A. very
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173035' type="radio" name="question-173035"
+        id="question-173035-B" value="B">
+    <label class="form-check-label" for="question-173035-B">
+        B. often
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173035' type="radio" name="question-173035"
+        id="question-173035-C" value="C">
+    <label class="form-check-label" for="question-173035-C">
+        C. always
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173035' type="radio" name="question-173035"
+        id="question-173035-D" value="D">
+    <label class="form-check-label" for="question-173035-D">
+        D. before
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173035" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173035"><p><b>Dịch đáp án:</b></p><p><span>Tại bàn đăng ký, hãy nhớ lấy thẻ tên của bạn ------- vào hội nghị.</span></p><p><span>(A) rất</span></p><p><span>(B) thường xuyên</span></p><p><span>(C) luôn luôn</span></p><p><span>(D) trước khi</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173036' id='question-wrapper-173036'>
+            
+            <div class='question-number'  data-qid="173036" >
+                <strong>111</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Maihama vehicles include an extended -- to cover engine repairs.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173036' type="radio" name="question-173036"
+        id="question-173036-A" value="A">
+    <label class="form-check-label" for="question-173036-A">
+        A. record
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173036' type="radio" name="question-173036"
+        id="question-173036-B" value="B">
+    <label class="form-check-label" for="question-173036-B">
+        B. operation
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173036' type="radio" name="question-173036"
+        id="question-173036-C" value="C">
+    <label class="form-check-label" for="question-173036-C">
+        C. budget
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173036' type="radio" name="question-173036"
+        id="question-173036-D" value="D">
+    <label class="form-check-label" for="question-173036-D">
+        D. warranty
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173036" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173036"><p><b>Dịch đáp án:</b></p><p><span>Xe Maihama bao gồm một  </span><span>-------</span><span> mở rộng để chi trả cho việc sửa chữa động cơ.</span></p><p><span>(A) hồ sơ </span></p><p><span>(B) hoạt động </span></p><p><span>(C) ngân sách </span></p><p><span>(D) bảo hành</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173037' id='question-wrapper-173037'>
+            
+            <div class='question-number'  data-qid="173037" >
+                <strong>112</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    The hotel’s new Web site features an -- collection of high-quality images.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173037' type="radio" name="question-173037"
+        id="question-173037-A" value="A">
+    <label class="form-check-label" for="question-173037-A">
+        A. absolute
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173037' type="radio" name="question-173037"
+        id="question-173037-B" value="B">
+    <label class="form-check-label" for="question-173037-B">
+        B. efficient
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173037' type="radio" name="question-173037"
+        id="question-173037-C" value="C">
+    <label class="form-check-label" for="question-173037-C">
+        C. impressive
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173037' type="radio" name="question-173037"
+        id="question-173037-D" value="D">
+    <label class="form-check-label" for="question-173037-D">
+        D. undefeated
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173037" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173037"><p><b>Dịch đáp án:</b></p><p><span>Trang web mới của khách sạn có một bộ sưu tập ------- những hình ảnh chất lượng cao.</span></p><p><span>(A) tuyệt đối </span></p><p><span>(B) hiệu quả </span></p><p><span>(C) ấn tượng </span></p><p><span>(D) bất bại</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (C)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173038' id='question-wrapper-173038'>
+            
+            <div class='question-number'  data-qid="173038" >
+                <strong>113</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    On behalf of everyone at Uniontown Bank, we -- thank you for your continued patronage.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173038' type="radio" name="question-173038"
+        id="question-173038-A" value="A">
+    <label class="form-check-label" for="question-173038-A">
+        A. deservedly
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173038' type="radio" name="question-173038"
+        id="question-173038-B" value="B">
+    <label class="form-check-label" for="question-173038-B">
+        B. commonly
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173038' type="radio" name="question-173038"
+        id="question-173038-C" value="C">
+    <label class="form-check-label" for="question-173038-C">
+        C. sincerely
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173038' type="radio" name="question-173038"
+        id="question-173038-D" value="D">
+    <label class="form-check-label" for="question-173038-D">
+        D. perfectly
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173038" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173038"><p><b>Dịch đáp án:</b></p><p><span>Thay mặt tất cả mọi người tại Ngân hàng Uniontown, chúng tôi ------- cảm ơn bạn đã tiếp tục ủng hộ.</span></p><p><span>(A) xứng đáng </span></p><p><span>(B) thường xuyên </span></p><p><span>(C) chân thành </span></p><p><span>(D) hoàn hảo</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng. </span></p><p><span>=&gt; Đáp án (C)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173039' id='question-wrapper-173039'>
+            
+            <div class='question-number'  data-qid="173039" >
+                <strong>114</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Fragile equipment must be stored in a secure location so that nothing is -- damaged.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173039' type="radio" name="question-173039"
+        id="question-173039-A" value="A">
+    <label class="form-check-label" for="question-173039-A">
+        A. accident
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173039' type="radio" name="question-173039"
+        id="question-173039-B" value="B">
+    <label class="form-check-label" for="question-173039-B">
+        B. accidents
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173039' type="radio" name="question-173039"
+        id="question-173039-C" value="C">
+    <label class="form-check-label" for="question-173039-C">
+        C. accidental
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173039' type="radio" name="question-173039"
+        id="question-173039-D" value="D">
+    <label class="form-check-label" for="question-173039-D">
+        D. accidentally
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173039" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173039"><p><b>Dịch đáp án:</b></p><p><span>Dụng cụ dễ vỡ phải được cất giữ ở một nơi an toàn để không có gì ------- hư hỏng.</span></p><p><span>(A) tai nạn</span></p><p><span>(B) những tai nạn</span></p><p><span>(C) tình cờ</span></p><p><span>(D) vô tình</span></p><p><span>Chỗ trống đứng sau động từ to be và đứng trước động từ damaged (thiệt hại), do đó cần điền một trạng từ bổ nghĩa cho động từ trên. Trong 4 đáp án chỉ có accidentally là trạng từ phù hợp.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173040' id='question-wrapper-173040'>
+            
+            <div class='question-number'  data-qid="173040" >
+                <strong>115</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Ms. Sampson will not arrive at the convention -- after our team’s presentation.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173040' type="radio" name="question-173040"
+        id="question-173040-A" value="A">
+    <label class="form-check-label" for="question-173040-A">
+        A. until
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173040' type="radio" name="question-173040"
+        id="question-173040-B" value="B">
+    <label class="form-check-label" for="question-173040-B">
+        B. lately
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173040' type="radio" name="question-173040"
+        id="question-173040-C" value="C">
+    <label class="form-check-label" for="question-173040-C">
+        C. from
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173040' type="radio" name="question-173040"
+        id="question-173040-D" value="D">
+    <label class="form-check-label" for="question-173040-D">
+        D. when
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173040" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173040"><p><b>Dịch đáp án:</b></p><p><span>Cô Sampson sẽ không đến hội nghị ------- sau phần trình bày của nhóm chúng tôi.</span></p><p><span>(A) cho đến </span></p><p><span>(B) gần đây</span></p><p><span>(C) từ</span></p><p><span>(D) khi</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (A)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173041' id='question-wrapper-173041'>
+            
+            <div class='question-number'  data-qid="173041" >
+                <strong>116</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    The community picnic will be held -- the park behind the Seltzer Public Library.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173041' type="radio" name="question-173041"
+        id="question-173041-A" value="A">
+    <label class="form-check-label" for="question-173041-A">
+        A. in
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173041' type="radio" name="question-173041"
+        id="question-173041-B" value="B">
+    <label class="form-check-label" for="question-173041-B">
+        B. all
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173041' type="radio" name="question-173041"
+        id="question-173041-C" value="C">
+    <label class="form-check-label" for="question-173041-C">
+        C. for
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173041' type="radio" name="question-173041"
+        id="question-173041-D" value="D">
+    <label class="form-check-label" for="question-173041-D">
+        D. here
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173041" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173041"><p><b>Dịch đáp án:</b></p><p><span>Chuyến dã ngoại cộng đồng sẽ được tổ chức ------- công viên phía sau Thư viện Công cộng Seltzer.</span></p><p><span>(A) trong</span></p><p><span>(B) tất cả</span></p><p><span>(C) cho</span></p><p><span>(D) ở đây</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (A)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173042' id='question-wrapper-173042'>
+            
+            <div class='question-number'  data-qid="173042" >
+                <strong>117</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    The new hires -- for an orientation on May 10 at 9:00 a.m.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173042' type="radio" name="question-173042"
+        id="question-173042-A" value="A">
+    <label class="form-check-label" for="question-173042-A">
+        A. to be gathering
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173042' type="radio" name="question-173042"
+        id="question-173042-B" value="B">
+    <label class="form-check-label" for="question-173042-B">
+        B. will gather
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173042' type="radio" name="question-173042"
+        id="question-173042-C" value="C">
+    <label class="form-check-label" for="question-173042-C">
+        C. gathering
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173042' type="radio" name="question-173042"
+        id="question-173042-D" value="D">
+    <label class="form-check-label" for="question-173042-D">
+        D. to gather
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173042" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173042"><p><b>Dịch đáp án:</b></p><p><span>Các nhân viên mới ------- buổi định hướng vào ngày 10 tháng 5 lúc 9:00 sáng.</span></p><p><span>(A) đang tập hợp</span></p><p><span>(B) sẽ tập hợp</span></p><p><span>(C) tập hợp</span></p><p><span>(D) để tập hợp</span></p><p><span>Chỗ trống cần điền là động từ của chủ ngữ the new hires. Vì vậy đáp án (B) will gather có thể đóng vai trò là động từ chính trong câu, là đáp án đúng. Đáp án (A) to be gathering và (D) gather là động từ dạng to-infinitive, và (C) gathering là một danh từ/động từ/hiện tại phân từ là đáp án không phù hợp.</span></p><p><span>=&gt; Đáp án (B)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173043' id='question-wrapper-173043'>
+            
+            <div class='question-number'  data-qid="173043" >
+                <strong>118</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    When Mr. Young approached the desk, the receptionist -- offered him a seat in the waiting room.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173043' type="radio" name="question-173043"
+        id="question-173043-A" value="A">
+    <label class="form-check-label" for="question-173043-A">
+        A. politely
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173043' type="radio" name="question-173043"
+        id="question-173043-B" value="B">
+    <label class="form-check-label" for="question-173043-B">
+        B. polite
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173043' type="radio" name="question-173043"
+        id="question-173043-C" value="C">
+    <label class="form-check-label" for="question-173043-C">
+        C. politeness
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173043' type="radio" name="question-173043"
+        id="question-173043-D" value="D">
+    <label class="form-check-label" for="question-173043-D">
+        D. politest
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173043" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173043"><p><b>Dịch đáp án:</b></p><p><span>Khi ông Young đến gần bàn làm việc, nhân viên lễ tân đã mời ông ngồi ------- trong phòng chờ.</span></p><p><span>(A) một cách lịch sự</span></p><p><span>(B) lịch sự</span></p><p><span>(C) sự lịch sự</span></p><p><span>(D) lịch sự nhất</span></p><p><span>Chỗ trống đứng trước động từ offered (đề nghị) nên cần điền một trạng từ để bổ nghĩa cho động từ này. Trong 4 đáp án chỉ có (A) politely (lịch sự) là trạng từ phù hợp, politely offered = đề nghị một cách lịch sự.</span></p><p><span>=&gt; Đáp án (A)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173044' id='question-wrapper-173044'>
+            
+            <div class='question-number'  data-qid="173044" >
+                <strong>119</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Members of the Marvale marketing team claimed that -- was the best design for the new corporate logo.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173044' type="radio" name="question-173044"
+        id="question-173044-A" value="A">
+    <label class="form-check-label" for="question-173044-A">
+        A. they
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173044' type="radio" name="question-173044"
+        id="question-173044-B" value="B">
+    <label class="form-check-label" for="question-173044-B">
+        B. them
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173044' type="radio" name="question-173044"
+        id="question-173044-C" value="C">
+    <label class="form-check-label" for="question-173044-C">
+        C. theirs
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173044' type="radio" name="question-173044"
+        id="question-173044-D" value="D">
+    <label class="form-check-label" for="question-173044-D">
+        D. their
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173044" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173044"><p><b>Dịch đáp án:</b></p><p><span>Các thành viên của nhóm tiếp thị Marvale tuyên bố rằng ------- là thiết kế tốt nhất cho logo mới của công ty.</span></p><p><span>(A) họ</span></p><p><span>(B) họ</span></p><p><span>(C) cái của họ</span></p><p><span>(D) của họ</span></p><p><span>Khoảng trống cần điền sẽ là chủ ngữ của mệnh đề đó. Vì was là động từ số ít nên chủ ngữ số nhiều (A) they không thể là câu trả lời, và đại từ sở hữu (C) theirs, có nghĩa là “những thứ của họ” (Thành viên của nhóm tiếp thị Marvale) trong ngữ cảnh, là câu trả lời đúng .</span></p><p><span>=&gt; Đáp án (C)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173045' id='question-wrapper-173045'>
+            
+            <div class='question-number'  data-qid="173045" >
+                <strong>120</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    The new Kitsuna video camera is currently on sale for $375, not -- tax.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173045' type="radio" name="question-173045"
+        id="question-173045-A" value="A">
+    <label class="form-check-label" for="question-173045-A">
+        A. excepting
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173045' type="radio" name="question-173045"
+        id="question-173045-B" value="B">
+    <label class="form-check-label" for="question-173045-B">
+        B. alongside
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173045' type="radio" name="question-173045"
+        id="question-173045-C" value="C">
+    <label class="form-check-label" for="question-173045-C">
+        C. within
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173045' type="radio" name="question-173045"
+        id="question-173045-D" value="D">
+    <label class="form-check-label" for="question-173045-D">
+        D. including
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173045" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173045"><p><b>Dịch đáp án:</b></p><p><span>Máy quay video Kitsuna mới hiện đang được bán với giá $375, chưa ------- thuế.</span></p><p><span>(A) ngoại trừ</span></p><p><span>(B) bên cạnh</span></p><p><span>(C) bên trong</span></p><p><span>(D) bao gồm</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173046' id='question-wrapper-173046'>
+            
+            <div class='question-number'  data-qid="173046" >
+                <strong>121</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    All associates are -- to follow the standard operating procedures outlined in the handbook.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173046' type="radio" name="question-173046"
+        id="question-173046-A" value="A">
+    <label class="form-check-label" for="question-173046-A">
+        A. concerned
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173046' type="radio" name="question-173046"
+        id="question-173046-B" value="B">
+    <label class="form-check-label" for="question-173046-B">
+        B. tended
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173046' type="radio" name="question-173046"
+        id="question-173046-C" value="C">
+    <label class="form-check-label" for="question-173046-C">
+        C. maintained
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173046' type="radio" name="question-173046"
+        id="question-173046-D" value="D">
+    <label class="form-check-label" for="question-173046-D">
+        D. expected
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173046" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173046"><p><b>Dịch đáp án:</b></p><p><span>Tất cả các cộng sự được </span><span>-------</span><span> tuân theo các quy trình vận hành tiêu chuẩn được nêu trong sổ tay.</span></p><p><span>(A) liên quan </span></p><p><span>(B) xu hướng</span></p><p><span>(C) duy trì </span></p><p><span>(D) mong đợi</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173047' id='question-wrapper-173047'>
+            
+            <div class='question-number'  data-qid="173047" >
+                <strong>122</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    This month Framley Publishing House is embarking on its -- expansion so far.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173047' type="radio" name="question-173047"
+        id="question-173047-A" value="A">
+    <label class="form-check-label" for="question-173047-A">
+        A. ambitiously
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173047' type="radio" name="question-173047"
+        id="question-173047-B" value="B">
+    <label class="form-check-label" for="question-173047-B">
+        B. most ambitiously
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173047' type="radio" name="question-173047"
+        id="question-173047-C" value="C">
+    <label class="form-check-label" for="question-173047-C">
+        C. ambition
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173047' type="radio" name="question-173047"
+        id="question-173047-D" value="D">
+    <label class="form-check-label" for="question-173047-D">
+        D. most ambitious
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173047" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173047"><p><b>Dịch đáp án:</b></p><p><span>Tháng này Nhà xuất bản Framley đang bắt tay vào việc mở rộng ------- của nó cho đến nay.</span></p><p><span>(A) đầy tham vọng</span></p><p><span>(B) tham vọng nhất</span></p><p><span>(C) tham vọng</span></p><p><span>(D) tham vọng nhất</span></p><p><span>Phía sau đại từ sở hữu its cần điền một danh từ, ở đây đã có danh từ expansion (sự mở rộng) do đó chỗ trống cần điền sẽ là một tính từ bổ nghĩa cho danh từ này. Trong 4 đáp án, most ambitious là đáp án phù hợp, có sử dụng thêm cấu trúc so sánh nhất để nhấn mạnh mức độ cho tính từ ambitious, most ambitious expansion = sự mở rộng tham vọng nhất từ trước đến nay.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173048' id='question-wrapper-173048'>
+            
+            <div class='question-number'  data-qid="173048" >
+                <strong>123</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    After months of collaboration, Matricks Technology’s software developers -- released a top-quality product.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173048' type="radio" name="question-173048"
+        id="question-173048-A" value="A">
+    <label class="form-check-label" for="question-173048-A">
+        A. profoundly
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173048' type="radio" name="question-173048"
+        id="question-173048-B" value="B">
+    <label class="form-check-label" for="question-173048-B">
+        B. overly
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173048' type="radio" name="question-173048"
+        id="question-173048-C" value="C">
+    <label class="form-check-label" for="question-173048-C">
+        C. finally
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173048' type="radio" name="question-173048"
+        id="question-173048-D" value="D">
+    <label class="form-check-label" for="question-173048-D">
+        D. intensely
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173048" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173048"><p><b>Dịch đáp án:</b></p><p><span>Sau nhiều tháng hợp tác, các nhà phát triển phần mềm của Matricks Technology ------- đã cho ra đời một sản phẩm chất lượng hàng đầu.</span></p><p><span>(A) sâu sắc</span></p><p><span>(B) quá mức</span></p><p><span>(C) cuối cùng</span></p><p><span>(D) mãnh liệt</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (C)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173049' id='question-wrapper-173049'>
+            
+            <div class='question-number'  data-qid="173049" >
+                <strong>124</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Tickets are valid for one-time access and do not allow for -- into the venue.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173049' type="radio" name="question-173049"
+        id="question-173049-A" value="A">
+    <label class="form-check-label" for="question-173049-A">
+        A. duplication
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173049' type="radio" name="question-173049"
+        id="question-173049-B" value="B">
+    <label class="form-check-label" for="question-173049-B">
+        B. reentry
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173049' type="radio" name="question-173049"
+        id="question-173049-C" value="C">
+    <label class="form-check-label" for="question-173049-C">
+        C. permission
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173049' type="radio" name="question-173049"
+        id="question-173049-D" value="D">
+    <label class="form-check-label" for="question-173049-D">
+        D. turnover
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173049" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173049"><p><b>Dịch đáp án:</b></p><p><span>Vé có giá trị cho một lần truy cập và không cho phép ------- vào địa điểm.</span></p><p><span>(A) sao chép </span></p><p><span>(B) quay lại </span></p><p><span>(C) cho phép </span></p><p><span>(D) doanh thu</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (B)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173050' id='question-wrapper-173050'>
+            
+            <div class='question-number'  data-qid="173050" >
+                <strong>125</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    We hired Okafor Construction to do the renovation -- it was not the lowest bidder on the project.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173050' type="radio" name="question-173050"
+        id="question-173050-A" value="A">
+    <label class="form-check-label" for="question-173050-A">
+        A. if only
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173050' type="radio" name="question-173050"
+        id="question-173050-B" value="B">
+    <label class="form-check-label" for="question-173050-B">
+        B. alternatively
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173050' type="radio" name="question-173050"
+        id="question-173050-C" value="C">
+    <label class="form-check-label" for="question-173050-C">
+        C. whereas
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173050' type="radio" name="question-173050"
+        id="question-173050-D" value="D">
+    <label class="form-check-label" for="question-173050-D">
+        D. even though
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173050" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173050"><p><b>Dịch đáp án:</b></p><p><span>Chúng tôi đã thuê Okafor Construction để thực hiện việc cải tạo -------- đó không phải là nhà thầu giá thấp nhất cho dự án.</span></p><p><span>(A) giá như</span></p><p><span>(B) ngoài ra</span></p><p><span>(C) trong khi đó</span></p><p><span>(D) mặc dù</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173051' id='question-wrapper-173051'>
+            
+            <div class='question-number'  data-qid="173051" >
+                <strong>126</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    The first -- of the training will introduce staff to certain workplace responsibilities.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173051' type="radio" name="question-173051"
+        id="question-173051-A" value="A">
+    <label class="form-check-label" for="question-173051-A">
+        A. part
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173051' type="radio" name="question-173051"
+        id="question-173051-B" value="B">
+    <label class="form-check-label" for="question-173051-B">
+        B. parted
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173051' type="radio" name="question-173051"
+        id="question-173051-C" value="C">
+    <label class="form-check-label" for="question-173051-C">
+        C. parting
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173051' type="radio" name="question-173051"
+        id="question-173051-D" value="D">
+    <label class="form-check-label" for="question-173051-D">
+        D. partial
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173051" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173051"><p><b>Dịch đáp án:</b></p><p><span>-------- đầu tiên của khóa đào tạo sẽ giới thiệu cho nhân viên những trách nhiệm nhất định tại nơi làm việc.</span></p><p><span>(A) phần</span></p><p><span>(B) chia tay</span></p><p><span>(C) chia tay</span></p><p><span>(D) một phần</span></p><p><span>Phía sau first cần điền một danh từ, do đó trong 4 đáp án chỉ có (A) part là phù hợp.</span></p><p><span>The first part = phần đầu tiên</span></p><p><span>=&gt; Đáp án (A)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173052' id='question-wrapper-173052'>
+            
+            <div class='question-number'  data-qid="173052" >
+                <strong>127</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    According to industry -- , Ghira Company plans to relocate its headquarters to Australia.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173052' type="radio" name="question-173052"
+        id="question-173052-A" value="A">
+    <label class="form-check-label" for="question-173052-A">
+        A. reported
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173052' type="radio" name="question-173052"
+        id="question-173052-B" value="B">
+    <label class="form-check-label" for="question-173052-B">
+        B. reportedly
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173052' type="radio" name="question-173052"
+        id="question-173052-C" value="C">
+    <label class="form-check-label" for="question-173052-C">
+        C. reporter
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173052' type="radio" name="question-173052"
+        id="question-173052-D" value="D">
+    <label class="form-check-label" for="question-173052-D">
+        D. reports
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173052" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173052"><p><b>Dịch đáp án:</b></p><p><span>Theo -------- của ngành, Công ty Ghira có kế hoạch chuyển trụ sở chính sang Úc.</span></p><p><span>(A) đã báo cáo</span></p><p><span>(B) theo báo cáo</span></p><p><span>(C) phóng viên</span></p><p><span>(D) báo cáo</span></p><p><span>Chỗ trống cần điền một danh từ để ghép với industry tạo thành một danh từ ghép hoàn chỉnh nhằm bổ sung thông tin cho vế câu phía sau. Câu đang nói đến việc “Theo như ___ công nghiệp, công ty Ghira lên kế hoạch di chuyển trụ sở chính của nó đến Úc”. Trong 4 đáp án chỉ có reports (báo cáo) là phù hợp, industry reports = báo cáo về công nghiệp. Đáp án C - reporter (phóng viên) không phù hợp với ngữ cảnh của câu.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173053' id='question-wrapper-173053'>
+            
+            <div class='question-number'  data-qid="173053" >
+                <strong>128</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    Next month, the Kneath House will host an exhibition of -- furniture and clothing from the eighteenth century.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173053' type="radio" name="question-173053"
+        id="question-173053-A" value="A">
+    <label class="form-check-label" for="question-173053-A">
+        A. authentic
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173053' type="radio" name="question-173053"
+        id="question-173053-B" value="B">
+    <label class="form-check-label" for="question-173053-B">
+        B. authentically
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173053' type="radio" name="question-173053"
+        id="question-173053-C" value="C">
+    <label class="form-check-label" for="question-173053-C">
+        C. authenticate
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173053' type="radio" name="question-173053"
+        id="question-173053-D" value="D">
+    <label class="form-check-label" for="question-173053-D">
+        D. authenticity
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173053" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173053"><p><b>Dịch đáp án:</b></p><p><span>Tháng tới, Kneath House sẽ tổ chức một cuộc triển lãm đồ nội thất và quần áo -------- từ thế kỷ thứ mười tám.</span></p><p><span>(A) xác thực</span></p><p><span>(B) xác thực</span></p><p><span>(C) xác thực</span></p><p><span>(D) tính xác thực</span></p><p><span>Phía trước danh từ furniture cần điền một tính từ bổ nghĩa cho nó, do đó tính từ authentic là đáp án phù hợp.</span></p><p><span>=&gt; Đáp án (A)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173054' id='question-wrapper-173054'>
+            
+            <div class='question-number'  data-qid="173054" >
+                <strong>129</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    PKTM's regional managers serve -- the direction of the vice president.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173054' type="radio" name="question-173054"
+        id="question-173054-A" value="A">
+    <label class="form-check-label" for="question-173054-A">
+        A. among
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173054' type="radio" name="question-173054"
+        id="question-173054-B" value="B">
+    <label class="form-check-label" for="question-173054-B">
+        B. under
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173054' type="radio" name="question-173054"
+        id="question-173054-C" value="C">
+    <label class="form-check-label" for="question-173054-C">
+        C. behind
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173054' type="radio" name="question-173054"
+        id="question-173054-D" value="D">
+    <label class="form-check-label" for="question-173054-D">
+        D. opposite
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173054" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173054"><p><b>Dịch đáp án:</b></p><p><span>Các nhà quản lý khu vực của PKTM phục vụ ------- sự chỉ đạo của phó chủ tịch.</span></p><p><span>(A) trong số</span></p><p><span>(B) dưới</span></p><p><span>(C) đằng sau</span></p><p><span>(D) ngược lại</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (B)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173055' id='question-wrapper-173055'>
+            
+            <div class='question-number'  data-qid="173055" >
+                <strong>130</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                <div class='question-text '>
+                    -- a recent surge in demand, Vanita’s Catering is hiring four additional servers.
+                </div>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173055' type="radio" name="question-173055"
+        id="question-173055-A" value="A">
+    <label class="form-check-label" for="question-173055-A">
+        A. Everywhere
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173055' type="radio" name="question-173055"
+        id="question-173055-B" value="B">
+    <label class="form-check-label" for="question-173055-B">
+        B. Possibly
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173055' type="radio" name="question-173055"
+        id="question-173055-C" value="C">
+    <label class="form-check-label" for="question-173055-C">
+        C. In total
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173055' type="radio" name="question-173055"
+        id="question-173055-D" value="D">
+    <label class="form-check-label" for="question-173055-D">
+        D. Owing to
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:D
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173055" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173055"><p><b>Dịch đáp án:</b></p><p><span>------- nhu cầu tăng cao gần đây, Vanita's Catering đang thuê thêm bốn người phục vụ.</span></p><p><span>(A) Khắp mọi nơi</span></p><p><span>(B) Có thể</span></p><p><span>(C) Tổng cộng</span></p><p><span>(D) Do</span></p><p><span>Dựa vào nghĩa của từ để chọn đáp án đúng.</span></p><p><span>=&gt; Đáp án (D)</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                    </div>
+
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        <div class='test-navigation' id='test-navigation'>
+            <div class='test-navigation__inner' id='test-navigation__inner'>
+                <div class="">
+                    <div class='test-questions-list mb-3'>
+                        
+                        
+                        <div class='test-questions-list-part'>
+                            <h6>Part 5</h6>
+                            <div class='test-questions-list-wrapper'>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem wrong'
+                                    data-qid='173026' id='test-questions-lisitem-173026'>
+                                    101
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173027' id='test-questions-lisitem-173027'>
+                                    102
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173028' id='test-questions-lisitem-173028'>
+                                    103
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173029' id='test-questions-lisitem-173029'>
+                                    104
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173030' id='test-questions-lisitem-173030'>
+                                    105
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173031' id='test-questions-lisitem-173031'>
+                                    106
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173032' id='test-questions-lisitem-173032'>
+                                    107
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173033' id='test-questions-lisitem-173033'>
+                                    108
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173034' id='test-questions-lisitem-173034'>
+                                    109
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173035' id='test-questions-lisitem-173035'>
+                                    110
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173036' id='test-questions-lisitem-173036'>
+                                    111
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173037' id='test-questions-lisitem-173037'>
+                                    112
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173038' id='test-questions-lisitem-173038'>
+                                    113
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173039' id='test-questions-lisitem-173039'>
+                                    114
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173040' id='test-questions-lisitem-173040'>
+                                    115
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173041' id='test-questions-lisitem-173041'>
+                                    116
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173042' id='test-questions-lisitem-173042'>
+                                    117
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173043' id='test-questions-lisitem-173043'>
+                                    118
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173044' id='test-questions-lisitem-173044'>
+                                    119
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173045' id='test-questions-lisitem-173045'>
+                                    120
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173046' id='test-questions-lisitem-173046'>
+                                    121
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173047' id='test-questions-lisitem-173047'>
+                                    122
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173048' id='test-questions-lisitem-173048'>
+                                    123
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173049' id='test-questions-lisitem-173049'>
+                                    124
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173050' id='test-questions-lisitem-173050'>
+                                    125
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173051' id='test-questions-lisitem-173051'>
+                                    126
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173052' id='test-questions-lisitem-173052'>
+                                    127
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173053' id='test-questions-lisitem-173053'>
+                                    128
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173054' id='test-questions-lisitem-173054'>
+                                    129
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173055' id='test-questions-lisitem-173055'>
+                                    130
+                                    
+                                </span>
+                                
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="share-modal" tabindex="-1" aria-labelledby="share-modal" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-body" id="share-modal-content">
+                <div class='alert alert-warning'>
+                    Chú ý: Khi bạn chia sẻ link dưới đây, người nhận sẽ có quyền highlight và lưu note lại. Bạn nên gửi cho giáo viên hoặc bạn bè quen biết để tránh bị spam highlights vào bài thi của mình.
+                </div>
+                <br/>
+                <p>Link:</p>
+                <p>https://study4.com/tests/4694/2024-practice-set-toeic-test-3/results/21999629/details/?code=21999629978814694</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+                    
+                </div>
+                
+            </div>
+            
+
+            <div class='footer-wrapper'>
+    <div class="footer-container">
+        <footer>
+
+            <div class='fb-like mb-2'>
+                <div class="fb-like" data-href="https://facebook.com/study4.support" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+            </div>
+
+            
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md">
+                    <a href='/'><img class="mb-2" src="/static/img/study4_new_logo_sm.png" alt="" height="30"></a>
+                    <small class="mb-2">©</small>
+                    <div class='site-socials' style="width: 140px !important;">
+                        <a target='_blank' href='https://facebook.com/study4.support'><span class='social-link fab fa-facebook-square'></span></a>
+                        <a target='_blank' href='https://instagram.com/study4.official'><span class='social-link fab fa-instagram'></span></a>
+                        <a target='_blank' href='https://twitter.com/study4Official'><span class='social-link fab fa-twitter'></span></a>
+                        <a target='_blank' href='https://youtube.com/@STUDY4Official'><span class='social-link fab fa-youtube'></span></a>
+                        
+                        <a target='_blank' href='https://www.tiktok.com/@study4.ielts'><span class='social-link fab fa-tiktok'></span></a>
+                    </div>
+                </div>
+                <div class="col-6 col-md">
+                    <div class='footer-title'>Về STUDY4</div>
+                    <ul class="list-unstyled text-small">
+                        <li><a href="/about/">Giới thiệu</a></li>
+                        <li><a href="/contact/">Liên hệ</a></li>
+                        <li><a href="/privacy/">Điều khoản bảo mật</a></li>
+                        <li><a href="/terms/">Điều khoản sử dụng</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col-6 col-md">
+                    <div class='footer-title'>Tài nguyên</div>
+                    <ul class="list-unstyled text-small">
+                        
+                        <li><a href="/tests/">Thư viện đề thi</a></li>
+                        <li><a href="/posts/">Blog</a></li>
+                        <li><a href="/materials/">Kho tài liệu</a></li>
+                        
+                        
+                    </ul>
+                </div>
+                <div class="col-6 col-md">
+                    <div class='footer-title'>Chính sách chung</div>
+                    <ul class="list-unstyled text-small">
+                        <li><a href="/user-guide/">Hướng dẫn sử dụng</a></li>
+                        <li><a href="/buying-guide/">Hướng dẫn thanh toán</a></li>
+                        
+                        <li><a href="/buying-terms/">Điều khoản và Điều Kiện Giao Dịch</a></li>
+                        <li><a href="/checkout-policy">Chính sách kiểm hàng</a></li>
+                        <li><a href="/delivery-policy">Chính sách giao, nhận hàng</a></li>
+                        <li><a href="/feedback/">Phản hồi, khiếu nại</a></li>
+                        <li><a href="/return-policy">Chính sách chuyển đổi, hoàn hủy</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class='footer-addresses'>
+                <div class="row">
+                    <div class="col-12 col-md">
+                        <h5  class="mb-2">Thông tin doanh nghiệp</h5>
+                        <ul>
+                            <li>CÔNG TY TNHH CÔNG NGHỆ A PLUS</li>
+                            <li>Điện thoại liên hệ/Hotline: 096 369 5525</li>
+                            <li>Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="285b5c5d4c511c065c4d4945684f45494144064b4745">[email&#160;protected]</a></li>
+                            <li>Địa chỉ trụ sở: Số 15, Ngõ 208 Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam</li>
+                            <li>Giấy chứng nhận Đăng ký doanh nghiệp số: 0109675459 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp</li>
+                            <li>Ngày cấp phép: 17/06/2021</li>
+                            <li>CS1: TRUNG TÂM NGOẠI NGỮ STUDY4 - Số 17, Ngõ 208 Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam - Quyết định cho phép Trung tâm ngoại ngữ hoạt động số 2654/QĐ-SGDĐT Hà Nội</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class='footer-copyright text-center'>
+                STUDY4.COM © Bản quyền của Công ty TNHH Công Nghệ A Plus.
+            </div>
+        </footer>
+    </div>
+</div>
+        </div>
+
+        <div class="modal" id="site-modal-lg" tabindex="-1" aria-labelledby="site-modal-lg" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="modal-body" id="site-modal-lg-content"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal" id="site-modal-md" tabindex="-1" aria-labelledby="site-modal-md" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+            <div class="modal-dialog modal-md">
+                <div class="modal-content">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="modal-body" id="site-modal-md-content"></div>
+                </div>
+            </div>
+        </div>
+
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+    window.csrf_token = 'n48jTcRcyqH4jvKih2L9JCShRq8XdUbvYr0AeXmu6UKUoRF6daRdIgSh4Nb8zgNb';
+    window.current_user =
+    
+    {
+        is_authenticated: true,
+        id: 97881,
+        name: "tiepnguyen.17102003",
+        is_admin: false,
+        is_staff: false,
+        is_superuser: false,
+    }
+    
+</script>
+        <script type='text/javascript' src="/static/ckeditor/ckeditor-init-override.js?v=1735269535"></script>
+        <script type='text/javascript' src="/static/ckeditor/ckeditor/ckeditor.js"></script>
+        <script type='text/javascript' src="/static/js/webaudiorecorder/WebAudioRecorder.min.js"></script>
+        <script type='text/javascript' src="/static/dist/vendor.ad60eb658fc650d75097.js?v=1735269535"></script>
+        <script type='text/javascript' src="/static/dist/main.651d8fa8cadf332cd75a.js?v=1735269535"></script>
+
+        
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+    $('.test-questions-listitem').on('click', function (e) {
+        var $this = $(this);
+        var qid = $this.attr('data-qid');
+        var $qinput = $(`[data-qid="${qid}"]`);
+        var $qwrapper = $(`#question-wrapper-${qid}`);
+        var part_content_id = $qinput.closest('.tab-pane')[0].id;
+        var $nav = $(`.nav-link[href="#${part_content_id}"]`);
+        $nav.tab('show');
+        setTimeout(function() {
+            $qwrapper[0].scrollIntoView({
+                block: 'center'
+            });
+            $qwrapper.css({border: '1px solid #ffd700'})
+            setTimeout(function() {
+                $qwrapper.css({border: ''});
+            }, 1000);
+        }, 150);
+        // window.topFunction();
+    });
+
+    var $nextpart = $('.nextpart');
+
+    $nextpart.on('click', function (e) {
+        e.preventDefault();
+        var $this = $(this);
+        var part_id = $this.attr('data-nextpart_id');
+        var $nav = $(`.nav-link[href="#partcontent-${part_id}"]`);
+        $nav.tab('show');
+        window.topFunction();
+    });
+
+    var stickySidebar = new StickySidebar('#test-navigation', {
+        topSpacing: 80,
+        bottomSpacing: 80,
+        containerSelector: '.test-wrapper',
+        innerWrapperSelector: '.test-navigation__inner',
+        resizeSensor: true,
+        stickyClass: 'is-affixed',
+        minWidth: 768,
+    });
+
+    $('.showtranscript-toggle').on('change', function() {
+        if ($('.showtranscript-toggle').is(':checked')) {
+            setTimeout(function() {
+                $('.context-transcript .collapse').collapse('show');
+            }, 50);
+            setTimeout(function() {
+                $('.question-explanation-wrapper .collapse').collapse('show');
+            }, 100);
+        } else {
+            setTimeout(function() {
+                $('.context-transcript .collapse').collapse('hide');
+            }, 50);
+            setTimeout(function() {
+                $('.question-explanation-wrapper .collapse').collapse('hide');
+            }, 100);
+        }
+    })
+
+    // $(function () {
+    //     if (window.hltr) {
+    //         window.hltr.webRestoreHighlights();
+    //     }
+    // })
+</script>
+
+        <script>
+            function isFacebookApp() {
+                var ua = navigator.userAgent || navigator.vendor || window.opera;
+                return (ua.indexOf("FBAN") > -1) || (ua.indexOf("FBAV") > -1);
+            }
+            if (isFacebookApp()) {
+                $('.g-login-block').hide();
+            }
+        </script>
+
+        
+
+        
+        
+        
+
+
+        
+        
+        
+
+
+        
+        <script>
+            (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+                w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+                m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://mautic.study4.com/mtc.js','mt');
+
+            
+                
+                mt('send', 'pageview', {
+                    email: "tiepnguyen.17102003@gmail.com",
+                    uid: "97881",
+                    username: "tiepnguyen.17102003",
+                    is_paid: false,
+                    is_trial: true
+                });
+                
+            
+        </script>
+        
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8fa9c08fbd98fd10","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2024.10.5","token":"8d646591bd144e069b89dada41cfc02b"}' crossorigin="anonymous"></script>
+</body>
+</html>

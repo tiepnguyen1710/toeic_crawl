@@ -1,0 +1,4582 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<!DOCTYPE html>
+<html lang='vi'>
+    <head>
+        
+        
+<script type="application/ld+json">
+    {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "STUDY4",
+    "url" : "https://study4.com",
+    "sameAs" : [
+        "https://facebook.com/study4.support"
+    ]
+    }
+</script>
+
+        
+
+        
+        <meta name="facebook-domain-verification" content="cw9q3grerylvdfmys2f7g3kveb68vj" />
+        
+        
+
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-64Z8KN7V8D"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            
+
+                gtag('config', 'G-64Z8KN7V8D', {
+                    'user_id': '97881'
+                });
+
+                gtag('set', {'user_id': '97881'});
+                //ga('set', 'userId', '97881');
+            
+          </script>
+        
+
+        
+
+        <title>Đáp án chi tiết: 2024 Practice Set TOEIC Test 6 - STUDY4</title>
+        <link rel=dns-prefetch href=//fonts.googleapis.com>
+        <meta charset="utf-8">
+        <meta name="description" CONTENT="STUDY4 - học tiếng Anh và luyện thi online TOEIC, IELTS, SAT, ACT, GRE, GMAT.">
+        <meta name="keywords" content="toeic,ielts,online english learning,cambridge ielts,bc ielts,real ielts tests,toeic ets,test prep services,online tutor,luyện thi online,tiếng Anh online,tiếng Anh giao tiếp,tiếng Anh cơ bản,tiếng anh cho người mất gốc" />
+        <link rel="canonical" href="https://study4.com/tests/4697/2024-practice-set-toeic-test-6/results/22005057/details/" />
+        <link rel="icon" href="/static/img/study4_new_icon_blk.png"/>
+        <link rel="apple-touch-icon" href="/static/img/study4_new_logo_square.png"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="turbolinks-cache-control" content="no-cache">
+        <meta property="fb:app_id" content="203430341284880" />
+        <meta property="og:url" content="https://study4.com/tests/4697/2024-practice-set-toeic-test-6/results/22005057/details/" />
+        <meta property=”og:locale” content=”vi_VN” />
+        <meta property="og:title" content="STUDY4" />
+        <meta property="og:description" content="STUDY4 - học tiếng Anh và luyện thi online TOEIC, IELTS, SAT, ACT, GRE, GMAT." />
+        <meta property="og:image" content="/static/img/study4_new_logo.png" />
+
+        
+        <meta property="og:type" content="article" />
+        
+
+        
+        <!-- <link rel=stylesheet id=flatsome-googlefonts-css  href='//fonts.googleapis.com/css?family=Roboto%3Aregular%2C700%2Cregular%2C700%2C500&#038;display=swap&#038;ver=3.9' type=text/css media=all> -->
+        
+<link rel="preload" as="style" href="/static/css/fontawesome.min.css?v=1735269535" onload="this.rel='stylesheet'">
+<noscript>
+    <link rel="stylesheet" href="/static/css/fontawesome.min.css?v=1735269535">
+</noscript>
+
+        
+<link rel="preload" as="style" href="/static/dist/vendor.ad60eb658fc650d75097.min.css?v=1735269535" onload="this.rel='stylesheet'">
+<noscript>
+    <link rel="stylesheet" href="/static/dist/vendor.ad60eb658fc650d75097.min.css?v=1735269535">
+</noscript>
+
+        <link rel='stylesheet' href="/static/dist/main.651d8fa8cadf332cd75a.min.css?v=1735269535" />
+
+        
+
+        
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            
+                
+                fbq('init', '303753638121242', {'external_id': "97881"});
+                
+                fbq('init', '6317196315061063', {'external_id': "97881"});
+                
+            
+
+            fbq('trackSingle', '6317196315061063', 'PageView');
+        </script>
+        
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=303753638121242&ev=PageView&noscript=1"/></noscript>
+        
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=6317196315061063&ev=PageView&noscript=1"/></noscript>
+        
+        <!-- End Facebook Pixel Code -->
+        
+
+        
+        
+        <script>
+            !function (w, d, t) {
+            w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+                ttq.load('COLIHEBC77U9C4QOD78G');
+
+                
+                ttq.identify({
+                    "email": "e9d98c50b9feba0926ec016742d93ab7b646fba1a8d497e82aac538311a5eff2",
+                    "external_id": "2f950473c825fd1820b30752ac6652e6201f91159a8a9260bdadb44cf035c730"
+                });
+                
+
+                ttq.page();
+            }(window, document, 'ttq');
+        </script>
+        
+        <script>
+            !function (w, d, t) {
+            w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+                ttq.load('CORPTQRC77UD072DBJ40');
+
+                
+                ttq.identify({
+                    "email": "e9d98c50b9feba0926ec016742d93ab7b646fba1a8d497e82aac538311a5eff2",
+                    "external_id": "2f950473c825fd1820b30752ac6652e6201f91159a8a9260bdadb44cf035c730"
+                });
+                
+
+                ttq.page();
+            }(window, document, 'ttq');
+        </script>
+        
+        
+
+        
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript" >
+            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym(82192363, "init", {
+                clickmap:false,
+                trackLinks:true,
+                accurateTrackBounce:true,
+                webvisor:false,
+                ecommerce:"dataLayer"
+            });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/82192363" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+        
+
+        <script>
+            window.resizeIframe = function(obj) { obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px'; }
+        </script>
+    </head>
+    <body class='gray-bg'>
+        
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v20.0&appId=203430341284880&autoLogAppEvents=1" nonce="1d3MdMH8"></script>
+        
+        
+
+        
+        <div class='site-elevator'>
+            <div class='elevator-item elevator-open d-md-none'>
+                <span class='fal fa-chevron-left'></span>
+            </div>
+            <div class='elevator-item elevator-close d-md-none'>
+                <span class='fal fa-chevron-right'></span>
+            </div>
+            <div class='elevator-item'>
+                <div class='jqdictionary-show' target='#'>
+                    <img src='/static/img/dictionary.png'/>
+                    <div class='elevator-text'>Từ điển</div>
+                </div>
+            </div>
+            <div class='jqdictionary-wrapper'>
+                <span class='jqdictionary-expand fal fa-plus-square'></span>
+                <span class='jqdictionary-close far fa-times'></span>
+                <div class='h6 font-500 font-sm'>
+                    <a class='link jqdictionary-tab active' data-href='https://m.dict.laban.vn/'>Anh-Việt</a> |
+                    <a class='link jqdictionary-tab' data-href='https://www.wordreference.com/definition/'>WordReference</a> |
+                    <a class='link jqdictionary-tab' data-href='https://onelook.com/thesaurus/'>Thesaurus</a> |
+                    <a class='link jqdictionary-tab' data-href='https://vtudien.com/trung-viet/dictionary/nghia-cua-tu-%E4%BD%A0%E5%A5%BD'>Tiếng Trung</a>
+                </div>
+                <div class='jqdictionary-iframe'>
+                    <iframe loading="lazy" frameborder='0'></iframe>
+                </div>
+            </div>
+
+
+            
+            <div class='elevator-item'>
+                <a target='_blank' href='https://m.me/study4.support'>
+                    <img src='/static/img/messenger.png'/>
+                </a>
+            </div>
+            
+
+            <div class='elevator-item'>
+                <a target='_blank' href='https://zalo.me/study4'>
+                    <img src='/static/img/zalo.jpg' />
+                </a>
+            </div>
+
+
+            
+            <div class='elevator-item site-scrollTop' onclick="window.topFunction()" id="site-scrollTop" title="Go to top" style='display: none;'>
+                <span class='fal fa-chevron-up'></span>
+            </div>
+        </div>
+        
+
+        
+
+        <div class='site-wrapper'>
+
+            
+
+            
+
+
+<div class='topnav1 topnav-wrapper'>
+    <div class="topnav-container">
+        <nav class="navbar  navbar-expand-lg">
+            <span class="navbar-brand">
+                <a class='topnav-brand' href='/'>
+                    <img class='topnav-logo' src='/static/img/study4_new_logo_sm.png' alt='STUDY4' />
+                    
+                </a>
+            </span>
+            <button class="navbar-toggler pull-xs-right d-lg-none" type="button" data-toggle="collapse"
+                data-target="#navbar-collapse">
+                &#9776;
+                
+            </button>
+            <div class="d-lg-block navbar-collapse justify-content-end collapse" id="navbar-collapse">
+                
+                <ul class="nav">
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/my-account/courses/">Khoá học của tôi</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/courses/online/">Chương trình học</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/tests/">Đề thi online</a>
+                    </li>
+                    
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/flashcards/">
+                            Flashcards
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/posts/">Blog</a>
+                    </li>
+
+                    
+
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/courses/activate/">
+                            Kích hoạt tài khoản
+                        </a>
+                    </li>
+                    
+                    <li class="nav-item user-topnav dropdown d-none d-lg-block">
+                        <a class="nav-link dropdown-toggle user-topnav-profile" href="/my-account/" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class='account-profile-img'>
+                                
+                                <img src="/static/img/user_icon.png" alt="tiepnguyen.17102003">
+                                
+                            </span>
+                            
+                        </a>
+
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <div>
+                                <h6 class="dropdown-header"> Thông báo </h6>
+                                <div id='new-notis-dropdown-content' class='jqhtml-loader dropdown-text' data-href='/notifications/newest/'></div>
+                            </div>
+
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="/studyplan/">Lịch học của tôi</a>
+                            <a class="dropdown-item" href="/my-account/">Trang cá nhân</a>
+                            <a class="dropdown-item" href="/logout/">Đăng xuất</a>
+                        </div>
+                    </li>
+                    <li class="nav-item d-lg-none">
+                        <a class="nav-link" href="/notifications/">Thông báo </a>
+                    </li>
+                    <li class="nav-item d-lg-none">
+                        <a class="nav-link" href="/studyplan/">Lịch học của tôi</a>
+                    </li>
+                    <li class="nav-item d-lg-none">
+                        <a class="nav-link" href="/my-account/">Trang cá nhân</a>
+                    </li>
+                    <li class="nav-item d-lg-none">
+                        <a class="nav-link" href="/logout/">Đăng xuất</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+
+            
+
+            
+            <div class='site-content-wrapper'>
+                
+
+                
+
+                
+                
+                
+                
+
+                
+
+                
+
+                
+                <div class='content-wrapper'>
+                    
+                    
+<div class='xl-container'>
+    <h1 class='h3 text-center'>Đáp án chi tiết: 2024 Practice Set TOEIC Test 6
+        <a class='btn btn-sky btn-sm' data-toggle="modal" data-target="#share-modal">Chia sẻ</a>
+        <a class='btn btn-sky btn-sm' href="/tests/4697/2024-practice-set-toeic-test-6/results/22005057/">Quay về trang kết quả</a>
+    </h1>
+
+
+    <div class='test-wrapper'>
+        <div class='test-content contentblock' id='test-content'>
+            <div class='test-controls'>
+                <div class="custom-control custom-switch mb-2">
+                    <input type="checkbox" class="custom-control-input showtranscript-toggle" id="showtranscript-toggle">
+                    <label class="custom-control-label font-sm" for="showtranscript-toggle"><i>Hiện toàn bộ transcript/đáp án</i></label>
+                </div>
+
+                
+                <div class="custom-control custom-switch highlight-toggle-box mb-3">
+                    <input type="checkbox" checked class="custom-control-input highlight-toggle" id="highlight-toggle">
+                    <label class="custom-control-label" for="highlight-toggle"><i>Highlight nội dung</i></label>
+                    <span class='ml-1 far fa-exclamation-circle' data-toggle="tooltip" data-placement="top"
+                        title="Bôi đen text để highlight nội dung. Bạn có thể thay đổi màu sắc hoặc thêm ghi chú."></span>
+                    <div class="btn-group">
+                        <button class="ml-2 btn btn-sky btn-sm dropdown-toggle" type="button" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">Lưu/khôi phục</button>
+                        <div class="dropdown-menu no-toggle">
+                            <div class='dropdown-item highlight-clear'>
+                                <a>Xoá tất cả highlights</a>
+                            </div>
+                            <div class='dropdown-item highlight-store' data-target='/highlights/store/results/22005057/?'>
+                                <a>Lưu highlight</a>
+                                <span class='ml-1 far fa-exclamation-circle' data-toggle="tooltip" data-placement="top"
+                                title="Click vào đây để lưu lại highlight cho những lần tới."></span>
+                            </div>
+                            <div class='dropdown-divider'></div>
+                            <div class='text-muted px-4'>
+                                Khôi phục highlight
+                                <span class='ml-1 far fa-exclamation-circle' data-toggle="tooltip" data-placement="top"
+                                title="Lựa chọn highlight bạn muốn khôi phục"></span>
+                            </div>
+                            <div class='dropdown-item'>
+                                <select class='custom-select custom-select-sm highlight-storeditems'  data-target='/highlights/restore/results/22005057/'>
+                                    <option value='null' disabled selected>-- Chọn highlight --</option>
+                                    
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+
+            <ul class="nav nav-pills nav-horizontal mb-4" id="pills-tab" role="tablist">
+                
+                <li class="nav-item" role="presentation">
+                    <a class="nav-link active" id="pills-10155-tab"
+                        data-toggle="pill" href="#partcontent-10155" role="tab"
+                        aria-controls="pills-10155" aria-selected="true">Part 2</a>
+                </li>
+                
+            </ul>
+
+            <div class="tab-content" id="pills-tabContent">
+                
+                
+                <div class="tab-pane active show" id="partcontent-10155"
+                    role="tabpanel" aria-labelledby="pills-tab">
+
+                    
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+
+                    <div class='test-questions-wrapper'>
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-7.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-7.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-208ffb32-cd77-4600-bf79-c59395bd0822" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-208ffb32-cd77-4600-bf79-c59395bd0822"><p><span>M-Cn Who’s going to take home the leftover cake?</span></p><p><span>M-Au (A) Marcel said he would. (B) A lovely selection of desserts. (C) No, I thought it started at noon.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173526' id='question-wrapper-173526'>
+            
+            <div class='question-number'  data-qid="173526" >
+                <strong>7</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173526' type="radio" name="question-173526"
+        id="question-173526-A" value="A">
+    <label class="form-check-label" for="question-173526-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            checked
+            class="form-check-input wrong"
+        
+        data-qid='173526' type="radio" name="question-173526"
+        id="question-173526-B" value="B">
+    <label class="form-check-label" for="question-173526-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173526' type="radio" name="question-173526"
+        id="question-173526-C" value="C">
+    <label class="form-check-label" for="question-173526-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173526" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173526"><p><b>Dịch đáp án:</b></p><p><span>M-Cn Ai sẽ mang chiếc bánh còn sót lại về nhà?</span></p><p><span>M-Au (A) Marcel đã nói là sẽ làm. (B) Một loạt món tráng miệng đáng yêu. (C) Không, tôi nghĩ nó bắt đầu vào buổi trưa.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-8.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-8.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-16b9fccc-5daa-4b63-9518-681b467d9220" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-16b9fccc-5daa-4b63-9518-681b467d9220"><p><span>W-Br Can you tell me where the security office is?</span></p><p><span>M-Au (A) Today’s my first day here. (B) A photograph for the badge. (C) Because it’s after lunch.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173527' id='question-wrapper-173527'>
+            
+            <div class='question-number'  data-qid="173527" >
+                <strong>8</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173527' type="radio" name="question-173527"
+        id="question-173527-A" value="A">
+    <label class="form-check-label" for="question-173527-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173527' type="radio" name="question-173527"
+        id="question-173527-B" value="B">
+    <label class="form-check-label" for="question-173527-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173527' type="radio" name="question-173527"
+        id="question-173527-C" value="C">
+    <label class="form-check-label" for="question-173527-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173527" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173527"><p><b>Dịch đáp án:</b></p><p><span>W-Br Bạn có thể cho tôi biết văn phòng an ninh ở đâu không?</span></p><p><span>M-Au (A) Hôm nay là ngày đầu tiên tôi ở đây. (B) Một bức ảnh cho huy hiệu. (C) Bởi vì đã sau bữa trưa.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-9.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-9.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-e1ee2c8b-47ab-4834-9e4e-7f9aec42fe71" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-e1ee2c8b-47ab-4834-9e4e-7f9aec42fe71"><p><span>W-Am What’s the best way to contact you?</span></p><p><span>w-Br (A) On my mobile phone. (B) No, I have to wear glasses. (C) This résumé is better.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173528' id='question-wrapper-173528'>
+            
+            <div class='question-number'  data-qid="173528" >
+                <strong>9</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173528' type="radio" name="question-173528"
+        id="question-173528-A" value="A">
+    <label class="form-check-label" for="question-173528-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173528' type="radio" name="question-173528"
+        id="question-173528-B" value="B">
+    <label class="form-check-label" for="question-173528-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173528' type="radio" name="question-173528"
+        id="question-173528-C" value="C">
+    <label class="form-check-label" for="question-173528-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173528" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173528"><p><b>Dịch đáp án:</b></p><p><span>W-Am Cách tốt nhất để liên lạc với bạn là gì?</span></p><p><span>w-Br (A) Bằng điện thoại di động của tôi. (B) Không, tôi phải đeo kính. (C) Bản lý lịch này tốt hơn.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-10.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-10.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-d8455cc9-1c45-452d-a3fd-892da4c3825d" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-d8455cc9-1c45-452d-a3fd-892da4c3825d"><p><span>W-Br Who’s joining us for the waterfront boat ride?</span></p><p><span>M-Cn (A) Conference room three. (B) The admission fee is reasonable. (C) Everybody on our team is coming.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173529' id='question-wrapper-173529'>
+            
+            <div class='question-number'  data-qid="173529" >
+                <strong>10</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173529' type="radio" name="question-173529"
+        id="question-173529-A" value="A">
+    <label class="form-check-label" for="question-173529-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173529' type="radio" name="question-173529"
+        id="question-173529-B" value="B">
+    <label class="form-check-label" for="question-173529-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173529' type="radio" name="question-173529"
+        id="question-173529-C" value="C">
+    <label class="form-check-label" for="question-173529-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173529" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173529"><p><b>Dịch đáp án:</b></p><p><span>W-Br Ai sẽ cùng chúng ta đi thuyền dọc bờ sông? </span></p><p><span>M-Cn (A) Phòng họp số ba. (B) Phí vào cửa hợp lý. (C) Mọi người trong đội của chúng ta đang đến.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-11.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-11.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-4e8aed10-9e91-4eff-8c4c-6123c4c45a86" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-4e8aed10-9e91-4eff-8c4c-6123c4c45a86"><p><span>w-Am Could you request a technician to repair the packaging machine?</span></p><p><span>M-Au_ (A) Three years of technical school. (B) Sure, I’ll do that. (C) The blue one with gold trim.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173530' id='question-wrapper-173530'>
+            
+            <div class='question-number'  data-qid="173530" >
+                <strong>11</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173530' type="radio" name="question-173530"
+        id="question-173530-A" value="A">
+    <label class="form-check-label" for="question-173530-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173530' type="radio" name="question-173530"
+        id="question-173530-B" value="B">
+    <label class="form-check-label" for="question-173530-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173530' type="radio" name="question-173530"
+        id="question-173530-C" value="C">
+    <label class="form-check-label" for="question-173530-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173530" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173530"><p><b>Dịch đáp án:</b></p><p><span>w-Am Bạn có thể yêu cầu kỹ thuật viên sửa chữa máy đóng gói không?</span></p><p><span>M-Au_ (A) Ba năm học kỹ thuật. (B) Chắc chắn rồi, tôi sẽ làm điều đó. (C) Chiếc màu xanh có viền vàng.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-12.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-12.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-3e549476-6237-4c83-8039-78bc1714bf56" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-3e549476-6237-4c83-8039-78bc1714bf56"><p><span>W-Br How many copies of the proposal should I make?</span></p><p><span>M-Gn (A) There’s blue paper in the cabinet. (B) Yes, it was my idea. (C) Fifty should be enough for everyone.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173531' id='question-wrapper-173531'>
+            
+            <div class='question-number'  data-qid="173531" >
+                <strong>12</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173531' type="radio" name="question-173531"
+        id="question-173531-A" value="A">
+    <label class="form-check-label" for="question-173531-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173531' type="radio" name="question-173531"
+        id="question-173531-B" value="B">
+    <label class="form-check-label" for="question-173531-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173531' type="radio" name="question-173531"
+        id="question-173531-C" value="C">
+    <label class="form-check-label" for="question-173531-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173531" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173531"><p><b>Dịch đáp án:</b></p><p><span>W-Br Tôi nên sao chép bao nhiêu bản đề xuất?</span></p><p><span>M-Gn (A) Có tờ giấy màu xanh trong tủ. (B) Vâng, đó là ý tưởng của tôi. (C) Năm mươi là đủ cho tất cả mọi người.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-13.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-13.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-1e47c582-6e8e-4f6b-af9b-26ee906d7589" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-1e47c582-6e8e-4f6b-af9b-26ee906d7589"><p><span>M-Au_ Why is Jonathan leaving early?</span></p><p><span>w-Am (A) To catch the six o’clock train. (B) On the early morning news. (C) That’s where he lives now.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173532' id='question-wrapper-173532'>
+            
+            <div class='question-number'  data-qid="173532" >
+                <strong>13</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173532' type="radio" name="question-173532"
+        id="question-173532-A" value="A">
+    <label class="form-check-label" for="question-173532-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173532' type="radio" name="question-173532"
+        id="question-173532-B" value="B">
+    <label class="form-check-label" for="question-173532-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173532' type="radio" name="question-173532"
+        id="question-173532-C" value="C">
+    <label class="form-check-label" for="question-173532-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173532" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173532"><p><b>Dịch đáp án:</b></p><p><span>M-Au_ Tại sao Jonathan lại về sớm?</span></p><p><span>w-Am (A) Để bắt chuyến tàu lúc sáu giờ. (B) Trên bản tin sáng sớm. (C) Đó là nơi anh ấy sống hiện nay.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-14.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-14.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-186ceddd-939a-4a93-a201-3c9c8e3226c2" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-186ceddd-939a-4a93-a201-3c9c8e3226c2"><p><span>W-Br Where’s the company party being held?</span></p><p><span>M-Au (A) It’s a publishing firm. (B) Party of five at the table in the corner. (C) At the Chesterville Hotel.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173533' id='question-wrapper-173533'>
+            
+            <div class='question-number'  data-qid="173533" >
+                <strong>14</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173533' type="radio" name="question-173533"
+        id="question-173533-A" value="A">
+    <label class="form-check-label" for="question-173533-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173533' type="radio" name="question-173533"
+        id="question-173533-B" value="B">
+    <label class="form-check-label" for="question-173533-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173533' type="radio" name="question-173533"
+        id="question-173533-C" value="C">
+    <label class="form-check-label" for="question-173533-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173533" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173533"><p><b>Dịch đáp án:</b></p><p><span>W-Br Tiệc công ty được tổ chức ở đâu?</span></p><p><span>M-Au (A) Đó là một công ty xuất bản. (B) Nhóm năm người ở bàn trong góc. (C) Tại khách sạn Chesterville.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-15.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-15.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-61b143c3-a6be-41ab-a5bc-68e32d3c3b87" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-61b143c3-a6be-41ab-a5bc-68e32d3c3b87"><p><span>W-Am Did you want to sign up for a one-year magazine subscription?</span></p><p><span>M-Au (A) How much will it cost? (B) Near the service center. (C) Akiko works at the front desk.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173534' id='question-wrapper-173534'>
+            
+            <div class='question-number'  data-qid="173534" >
+                <strong>15</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173534' type="radio" name="question-173534"
+        id="question-173534-A" value="A">
+    <label class="form-check-label" for="question-173534-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173534' type="radio" name="question-173534"
+        id="question-173534-B" value="B">
+    <label class="form-check-label" for="question-173534-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173534' type="radio" name="question-173534"
+        id="question-173534-C" value="C">
+    <label class="form-check-label" for="question-173534-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173534" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173534"><p><b>Dịch đáp án:</b></p><p><span>W-Am Bạn có muốn đăng ký đặt mua tạp chí một năm không?</span></p><p><span>M-Au (A) Chi phí là bao nhiêu? (B) Gần trung tâm dịch vụ. (C) Akiko làm việc ở quầy lễ tân.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-16.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-16.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-57d5d514-13e2-41b2-b40c-fee974c06f29" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-57d5d514-13e2-41b2-b40c-fee974c06f29"><p><span>W-Br Does this pasta come with a side salad?</span></p><p><span>M-Cn (A) We do have a tablecloth. (B) No, I’m afraid not. (C) I like it too.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173535' id='question-wrapper-173535'>
+            
+            <div class='question-number'  data-qid="173535" >
+                <strong>16</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173535' type="radio" name="question-173535"
+        id="question-173535-A" value="A">
+    <label class="form-check-label" for="question-173535-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173535' type="radio" name="question-173535"
+        id="question-173535-B" value="B">
+    <label class="form-check-label" for="question-173535-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173535' type="radio" name="question-173535"
+        id="question-173535-C" value="C">
+    <label class="form-check-label" for="question-173535-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173535" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173535"><p><b>Dịch đáp án:</b></p><p><span>W-Br Món mì này có kèm salad ăn kèm không?</span></p><p><span>M-Cn (A) Chúng tôi có một chiếc khăn trải bàn. (B) Không, tôi e là không. (C) Tôi cũng thích nó.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-17.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-17.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-a5823acd-14e1-4d94-aabd-bcbfed76eabe" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-a5823acd-14e1-4d94-aabd-bcbfed76eabe"><p><span>M-Au When can we meet about the invoices?</span></p><p><span>M-Cn (A) Supplies for the office. (B) I’m free after two. (C) Probably on Harold’s desk.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173536' id='question-wrapper-173536'>
+            
+            <div class='question-number'  data-qid="173536" >
+                <strong>17</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173536' type="radio" name="question-173536"
+        id="question-173536-A" value="A">
+    <label class="form-check-label" for="question-173536-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173536' type="radio" name="question-173536"
+        id="question-173536-B" value="B">
+    <label class="form-check-label" for="question-173536-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173536' type="radio" name="question-173536"
+        id="question-173536-C" value="C">
+    <label class="form-check-label" for="question-173536-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173536" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173536"><p><b>Dịch đáp án:</b></p><p><span>M-Au Khi nào chúng ta có thể gặp nhau về hóa đơn?</span></p><p><span>M-Cn (A) Đồ dùng cho văn phòng. (B) Tôi rảnh sau hai giờ. (C) Có lẽ là trên bàn của Harold.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-18.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-18.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-878a5146-fd4a-4a38-85bf-85529b6cc441" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-878a5146-fd4a-4a38-85bf-85529b6cc441"><p><span>M-Au_ Would you like me to help you open a savings account?</span></p><p><span>W-Am (A) I’ve already counted them. (B) That’d be great. (C) 50 euros each.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173537' id='question-wrapper-173537'>
+            
+            <div class='question-number'  data-qid="173537" >
+                <strong>18</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173537' type="radio" name="question-173537"
+        id="question-173537-A" value="A">
+    <label class="form-check-label" for="question-173537-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173537' type="radio" name="question-173537"
+        id="question-173537-B" value="B">
+    <label class="form-check-label" for="question-173537-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173537' type="radio" name="question-173537"
+        id="question-173537-C" value="C">
+    <label class="form-check-label" for="question-173537-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173537" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173537"><p><b>Dịch đáp án:</b></p><p><span>M-Au_ Bạn có muốn tôi giúp bạn mở tài khoản tiết kiệm không?</span></p><p><span>W-Am (A) Tôi đã đếm rồi. (B) Điều đó thật tuyệt. (C) 50 euro mỗi cái.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-19.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-19.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-eed13d4c-a571-4b1c-8cc7-8dacd3886c0c" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-eed13d4c-a571-4b1c-8cc7-8dacd3886c0c"><p><span>W-Am When did you post the job opening?</span></p><p><span>M-Au (A) On the bulletin board in the hallway. (B) It’s been on the Web site for a month. (C) Can you close the door?</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173538' id='question-wrapper-173538'>
+            
+            <div class='question-number'  data-qid="173538" >
+                <strong>19</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173538' type="radio" name="question-173538"
+        id="question-173538-A" value="A">
+    <label class="form-check-label" for="question-173538-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173538' type="radio" name="question-173538"
+        id="question-173538-B" value="B">
+    <label class="form-check-label" for="question-173538-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173538' type="radio" name="question-173538"
+        id="question-173538-C" value="C">
+    <label class="form-check-label" for="question-173538-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173538" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173538"><p><b>Dịch đáp án:</b></p><p><span>W-Am Bạn đăng tin tuyển dụng khi nào?</span></p><p><span>M-Au (A) Trên bảng thông báo ở hành lang. (B) Nó đã có trên trang web được một tháng. (C) Bạn có thể đóng cửa lại được không?</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-20.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-20.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-eb7ff769-6074-4639-9d8c-a6012b684c34" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-eb7ff769-6074-4639-9d8c-a6012b684c34"><p><span>W-Am Are you applying for the manager position?</span></p><p><span>M-Cn_ (A) About sixteen more employees. (B) I'll check her schedule again. (C) Yes... I hope I get it.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173539' id='question-wrapper-173539'>
+            
+            <div class='question-number'  data-qid="173539" >
+                <strong>20</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173539' type="radio" name="question-173539"
+        id="question-173539-A" value="A">
+    <label class="form-check-label" for="question-173539-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173539' type="radio" name="question-173539"
+        id="question-173539-B" value="B">
+    <label class="form-check-label" for="question-173539-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173539' type="radio" name="question-173539"
+        id="question-173539-C" value="C">
+    <label class="form-check-label" for="question-173539-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173539" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173539"><p><b>Dịch đáp án:</b></p><p><span>W-Am Bạn đang ứng tuyển vào vị trí quản lý phải không?</span></p><p><span>M-Cn_ (A) Khoảng mười sáu nhân viên nữa. (B) Tôi sẽ kiểm tra lại lịch trình của cô ấy. (C) Vâng... tôi hy vọng tôi có được nó.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-21.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-21.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-a7b3f1de-cabf-44cd-b042-733f473b6471" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-a7b3f1de-cabf-44cd-b042-733f473b6471"><p><span>M-Au_ Are you traveling in business class or economy?</span></p><p><span>M-Cn (A) My flight was just canceled. (B) My focus is history. (C) London, then New York.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173540' id='question-wrapper-173540'>
+            
+            <div class='question-number'  data-qid="173540" >
+                <strong>21</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173540' type="radio" name="question-173540"
+        id="question-173540-A" value="A">
+    <label class="form-check-label" for="question-173540-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173540' type="radio" name="question-173540"
+        id="question-173540-B" value="B">
+    <label class="form-check-label" for="question-173540-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173540' type="radio" name="question-173540"
+        id="question-173540-C" value="C">
+    <label class="form-check-label" for="question-173540-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173540" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173540"><p><b>Dịch đáp án:</b></p><p><span>M-Au_ Bạn đi hạng thương gia hay phổ thông?</span></p><p><span>M-Cn (A) Chuyến bay của tôi vừa bị hủy. (B) Trọng tâm của tôi là lịch sử. (C) Luân Đôn, rồi New York.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-22.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-22.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-2e7e3c93-3b0a-492b-a53b-d663f7b4747b" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-2e7e3c93-3b0a-492b-a53b-d663f7b4747b"><p><span>W-Am The number of subscribers for our magazine has decreased recently.</span></p><p><span>M-Au_ (A) There’s room in the budget for more advertising. (B) An annual membership fee. (C) There are six folders on the table.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173541' id='question-wrapper-173541'>
+            
+            <div class='question-number'  data-qid="173541" >
+                <strong>22</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173541' type="radio" name="question-173541"
+        id="question-173541-A" value="A">
+    <label class="form-check-label" for="question-173541-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173541' type="radio" name="question-173541"
+        id="question-173541-B" value="B">
+    <label class="form-check-label" for="question-173541-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173541' type="radio" name="question-173541"
+        id="question-173541-C" value="C">
+    <label class="form-check-label" for="question-173541-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173541" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173541"><p><b>Dịch đáp án:</b></p><p><span>W-Am Số lượng người đăng ký tạp chí của chúng ta gần đây đã giảm.</span></p><p><span>M-Au_ (A) Có chỗ trong ngân sách để dành cho quảng cáo nhiều hơn. (B) Phí thành viên hàng năm. (C) Có sáu tập tài liệu trên bàn.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-23.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-23.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-37af5bee-9c7a-43b8-ae10-0017be660bf0" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-37af5bee-9c7a-43b8-ae10-0017be660bf0"><p><span>w-Am How do you clean the solar panels without damaging them?</span></p><p><span>M-Cn (A) The glass can be any color you want. (B) No, the sun isn’t out today. (C) I pay a company to do all the maintenance.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173542' id='question-wrapper-173542'>
+            
+            <div class='question-number'  data-qid="173542" >
+                <strong>23</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173542' type="radio" name="question-173542"
+        id="question-173542-A" value="A">
+    <label class="form-check-label" for="question-173542-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173542' type="radio" name="question-173542"
+        id="question-173542-B" value="B">
+    <label class="form-check-label" for="question-173542-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173542' type="radio" name="question-173542"
+        id="question-173542-C" value="C">
+    <label class="form-check-label" for="question-173542-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173542" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173542"><p><b>Dịch đáp án:</b></p><p><span>w-Am Làm thế nào để làm sạch các tấm pin mặt trời mà không làm hỏng chúng?</span></p><p><span>M-Cn (A) Kính có thể có bất kỳ màu nào bạn muốn. (B) Không, hôm nay mặt trời không tắt. (C) Tôi trả tiền cho một công ty để thực hiện toàn bộ việc bảo trì.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-24.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-24.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-10068b60-2e48-4dc3-b562-34d8034a6dc8" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-10068b60-2e48-4dc3-b562-34d8034a6dc8"><p><span>W-Br When will I receive my certificate in the mail? </span></p><p><span>M-Cn (A) I'll have to check with the office. (B) Turn left at the light. (C) No, thank you.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173543' id='question-wrapper-173543'>
+            
+            <div class='question-number'  data-qid="173543" >
+                <strong>24</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173543' type="radio" name="question-173543"
+        id="question-173543-A" value="A">
+    <label class="form-check-label" for="question-173543-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173543' type="radio" name="question-173543"
+        id="question-173543-B" value="B">
+    <label class="form-check-label" for="question-173543-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173543' type="radio" name="question-173543"
+        id="question-173543-C" value="C">
+    <label class="form-check-label" for="question-173543-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173543" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173543"><p><b>Dịch đáp án:</b></p><p><span>W-Br Khi nào tôi sẽ nhận được chứng chỉ của tôi qua đường bưu điện? </span></p><p><span>M-Cn (A) Tôi sẽ phải kiểm tra với văn phòng. (B) Rẽ trái ở chỗ đèn giao thông. (C) Không, cảm ơn bạn.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-25.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-25.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-4d3b5ff3-2eef-42b6-a252-ce0240589c36" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-4d3b5ff3-2eef-42b6-a252-ce0240589c36"><p><span>M-Cn_ Don’t we sell Ramirez lawn mowers?</span></p><p><span>W-Br (A) The plants need more water. (B) Sorry, refunds are not allowed. (C) I work in the home decor area.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173544' id='question-wrapper-173544'>
+            
+            <div class='question-number'  data-qid="173544" >
+                <strong>25</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173544' type="radio" name="question-173544"
+        id="question-173544-A" value="A">
+    <label class="form-check-label" for="question-173544-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173544' type="radio" name="question-173544"
+        id="question-173544-B" value="B">
+    <label class="form-check-label" for="question-173544-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173544' type="radio" name="question-173544"
+        id="question-173544-C" value="C">
+    <label class="form-check-label" for="question-173544-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:C
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173544" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173544"><p><b>Dịch đáp án:</b></p><p><span>M-Cn_ Chúng ta không bán máy cắt cỏ Ramirez à?</span></p><p><span>W-Br (A) Cây cần nhiều nước hơn. (B) Xin lỗi, không được phép hoàn lại tiền. (C) Tôi làm việc trong khu vực đồ trang trí nhà cửa.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-26.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-26.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-9a99aabd-29d1-4ccb-ac12-e253dd40bdea" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-9a99aabd-29d1-4ccb-ac12-e253dd40bdea"><p><span>w-Am Should we meet to discuss our research project?</span></p><p><span>M-Cn (A) A publishing manual. (B) Put something on my calendar. (C) Alphabetical order is fine, I think.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173545' id='question-wrapper-173545'>
+            
+            <div class='question-number'  data-qid="173545" >
+                <strong>26</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173545' type="radio" name="question-173545"
+        id="question-173545-A" value="A">
+    <label class="form-check-label" for="question-173545-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173545' type="radio" name="question-173545"
+        id="question-173545-B" value="B">
+    <label class="form-check-label" for="question-173545-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173545' type="radio" name="question-173545"
+        id="question-173545-C" value="C">
+    <label class="form-check-label" for="question-173545-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173545" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173545"><p><b>Dịch đáp án:</b></p><p><span>w-Am Chúng ta có nên gặp nhau để thảo luận về dự án nghiên cứu của chúng ta không?</span></p><p><span>M-Cn (A) Sổ tay xuất bản. (B) Đưa vào lịch trình giúp tôi nhé. (C) Tôi nghĩ thứ tự bảng chữ cái là ổn.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-27.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-27.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-13fab71c-ad23-4145-a7c3-27cfb8593ee6" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-13fab71c-ad23-4145-a7c3-27cfb8593ee6"><p><span>W-Br When does the cleaning staff leave for the day?</span></p><p><span>w-Am (A) A supply closet in the hall. (B) By six o’clock, usually. (C) The leaves come out in the spring.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173546' id='question-wrapper-173546'>
+            
+            <div class='question-number'  data-qid="173546" >
+                <strong>27</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173546' type="radio" name="question-173546"
+        id="question-173546-A" value="A">
+    <label class="form-check-label" for="question-173546-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173546' type="radio" name="question-173546"
+        id="question-173546-B" value="B">
+    <label class="form-check-label" for="question-173546-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173546' type="radio" name="question-173546"
+        id="question-173546-C" value="C">
+    <label class="form-check-label" for="question-173546-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:B
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173546" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173546"><p><b>Dịch đáp án:</b></p><p><span>W-Br Khi nào nhân viên vệ sinh đi về?</span></p><p><span>w-Am (A) Một tủ đựng đồ ở hành lang. (B) Thường là vào lúc sáu giờ. (C) Lá mọc vào mùa xuân.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-28.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-28.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-aa500cdf-d985-4dc0-b03d-de8d9338d41a" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-aa500cdf-d985-4dc0-b03d-de8d9338d41a"><p><span>W-Br How would you like to pay for these shoes today?</span></p><p><span>M-Cn (A) With a store gift card. (B) I wear a size 38. (C) A friend recommended them.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173547' id='question-wrapper-173547'>
+            
+            <div class='question-number'  data-qid="173547" >
+                <strong>28</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173547' type="radio" name="question-173547"
+        id="question-173547-A" value="A">
+    <label class="form-check-label" for="question-173547-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173547' type="radio" name="question-173547"
+        id="question-173547-B" value="B">
+    <label class="form-check-label" for="question-173547-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173547' type="radio" name="question-173547"
+        id="question-173547-C" value="C">
+    <label class="form-check-label" for="question-173547-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173547" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173547"><p><b>Dịch đáp án:</b></p><p><span>W-Br Hôm nay bạn muốn thanh toán cho đôi giày này bằng cách nào?</span></p><p><span>M-Cn (A) Với thẻ quà tặng của cửa hàng. (B) Tôi đi cỡ 38. (C) Một người bạn đã giới thiệu chúng.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-29.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-29.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-79e5b058-6115-4969-8574-9438157de75c" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-79e5b058-6115-4969-8574-9438157de75c"><p><span>M-Au_ It’s an effective advertisement, isn’t it?</span></p><p><span>w-Am (A) I’ve heard that sales have increased. (B)The next issue of the magazine. (C) Isn’t the policy in effect already?</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173548' id='question-wrapper-173548'>
+            
+            <div class='question-number'  data-qid="173548" >
+                <strong>29</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173548' type="radio" name="question-173548"
+        id="question-173548-A" value="A">
+    <label class="form-check-label" for="question-173548-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173548' type="radio" name="question-173548"
+        id="question-173548-B" value="B">
+    <label class="form-check-label" for="question-173548-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173548' type="radio" name="question-173548"
+        id="question-173548-C" value="C">
+    <label class="form-check-label" for="question-173548-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173548" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173548"><p><b>Dịch đáp án:</b></p><p><span>M-Au_ Quả là một quảng cáo hiệu quả phải không?</span></p><p><span>w-Am (A) Tôi nghe nói doanh số bán hàng đã tăng lên. (B) Số tiếp theo của tạp chí. (C) Không phải chính sách này đã có hiệu lực rồi sao?</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-30.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-30.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-b3ff7413-5c6a-4e44-b28a-1af2224ee0a7" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-b3ff7413-5c6a-4e44-b28a-1af2224ee0a7"><p><span>W-Br Why don’t we take a walk after lunch? </span></p><p><span>M-Au_ (A) The sales report is due at one o’clock. (B) No, in parking area B. (C) I'll have spaghetti, please.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173549' id='question-wrapper-173549'>
+            
+            <div class='question-number'  data-qid="173549" >
+                <strong>30</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173549' type="radio" name="question-173549"
+        id="question-173549-A" value="A">
+    <label class="form-check-label" for="question-173549-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173549' type="radio" name="question-173549"
+        id="question-173549-B" value="B">
+    <label class="form-check-label" for="question-173549-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173549' type="radio" name="question-173549"
+        id="question-173549-C" value="C">
+    <label class="form-check-label" for="question-173549-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173549" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173549"><p><b>Dịch đáp án:</b></p><p><span>W-Br Tại sao chúng ta không đi dạo sau bữa trưa nhỉ? </span></p><p><span>M-Au_ (A) Báo cáo bán hàng sẽ đến hạn vào lúc một giờ. (B) Không, ở khu vực đỗ xe B. (C) Làm ơn cho tôi ăn spaghetti.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                        
+    
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+        
+            
+
+
+<div class='context-wrapper'>
+    
+    
+    
+    <div class='context-content context-audio'>
+        <audio class='post-audio-item'  controls preload='none' no-extra-controls='true'>
+            <!-- <source src="/media/e24/audio/questions/Test_6/Test_6-31.mp3" type="audio/x-m4a"> -->
+            <source src="https://s4-media1.study4.com/media/e24/audio/questions/Test_6/Test_6-31.mp3" >
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    
+    
+    
+    
+    
+    <div class='context-content context-transcript text-highlightable'>
+        
+        <p>
+            <a data-toggle="collapse" href="#transcript-2ec62571-5f84-48b0-8b87-de76bf3f92ea" aria-expanded="false">
+                Hiện Transcript <span class='fas fa-caret-down ml-1'></span>
+            </a>
+        </p>
+        <div class="collapse" id="transcript-2ec62571-5f84-48b0-8b87-de76bf3f92ea"><p><span>w-Am I decided to move the seasonal merchandise to the front of the store.</span></p><p><span>w-Br (A) Did you put some of it in the window display? (B) For our summer clothing collection. (C) The moving van is coming tomorrow.</span></p></div>
+    </div>
+    
+    
+</div>
+
+        
+
+        <div class='question-wrapper' data-qid='173550' id='question-wrapper-173550'>
+            
+            <div class='question-number'  data-qid="173550" >
+                <strong>31</strong>
+            </div>
+            
+
+            <div class='question-content text-highlightable'>
+                
+                
+                
+
+                <div class='question-answers'>
+                    
+                        
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173550' type="radio" name="question-173550"
+        id="question-173550-A" value="A">
+    <label class="form-check-label" for="question-173550-A">
+        A. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173550' type="radio" name="question-173550"
+        id="question-173550-B" value="B">
+    <label class="form-check-label" for="question-173550-B">
+        B. 
+    </label>
+</div>
+
+                        
+                        
+<div class="form-check">
+    <input data-type='question-answer'
+        disabled
+        
+            class="form-check-input"
+        
+        data-qid='173550' type="radio" name="question-173550"
+        id="question-173550-C" value="C">
+    <label class="form-check-label" for="question-173550-C">
+        C. 
+    </label>
+</div>
+
+                        
+                        
+                    
+                </div>
+                
+                
+                <div class='mt-2 text-success'>
+                    Đáp án đúng:A
+                </div>
+                
+
+                
+            </div>
+
+            
+        </div>
+        
+        <div class='question-explanation-wrapper'>
+            
+            <p>
+                <a data-toggle="collapse" href="#questionexplanation-173550" aria-expanded="false">
+                    Giải thích chi tiết đáp án <span class='fas fa-caret-down ml-1'></span>
+                </a>
+            </p>
+            <div class="collapse" id="questionexplanation-173550"><p><b>Dịch đáp án:</b></p><p><span>w-Am </span><span>Tôi quyết định chuyển hàng hóa theo mùa ra phía trước cửa hàng.</span></p><p><span>w-Br (A) Bạn có để nó trên cửa sổ trưng bày không? (B) Cho bộ sưu tập quần áo mùa hè của chúng ta. (C) Xe chở hàng sẽ đến vào ngày mai.</span></p></div>
+        </div>
+        <br/><br/>
+        
+
+    
+
+    
+
+    
+
+                        
+                    </div>
+
+                    
+                </div>
+                
+            </div>
+        </div>
+
+        <div class='test-navigation' id='test-navigation'>
+            <div class='test-navigation__inner' id='test-navigation__inner'>
+                <div class="">
+                    <div class='test-questions-list mb-3'>
+                        
+                        
+                        <div class='test-questions-list-part'>
+                            <h6>Part 2</h6>
+                            <div class='test-questions-list-wrapper'>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem wrong'
+                                    data-qid='173526' id='test-questions-lisitem-173526'>
+                                    7
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173527' id='test-questions-lisitem-173527'>
+                                    8
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173528' id='test-questions-lisitem-173528'>
+                                    9
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173529' id='test-questions-lisitem-173529'>
+                                    10
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173530' id='test-questions-lisitem-173530'>
+                                    11
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173531' id='test-questions-lisitem-173531'>
+                                    12
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173532' id='test-questions-lisitem-173532'>
+                                    13
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173533' id='test-questions-lisitem-173533'>
+                                    14
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173534' id='test-questions-lisitem-173534'>
+                                    15
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173535' id='test-questions-lisitem-173535'>
+                                    16
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173536' id='test-questions-lisitem-173536'>
+                                    17
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173537' id='test-questions-lisitem-173537'>
+                                    18
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173538' id='test-questions-lisitem-173538'>
+                                    19
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173539' id='test-questions-lisitem-173539'>
+                                    20
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173540' id='test-questions-lisitem-173540'>
+                                    21
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173541' id='test-questions-lisitem-173541'>
+                                    22
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173542' id='test-questions-lisitem-173542'>
+                                    23
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173543' id='test-questions-lisitem-173543'>
+                                    24
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173544' id='test-questions-lisitem-173544'>
+                                    25
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173545' id='test-questions-lisitem-173545'>
+                                    26
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173546' id='test-questions-lisitem-173546'>
+                                    27
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173547' id='test-questions-lisitem-173547'>
+                                    28
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173548' id='test-questions-lisitem-173548'>
+                                    29
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173549' id='test-questions-lisitem-173549'>
+                                    30
+                                    
+                                </span>
+                                
+                                
+                                <span
+                                    class='test-questions-listitem unanswered'
+                                    data-qid='173550' id='test-questions-lisitem-173550'>
+                                    31
+                                    
+                                </span>
+                                
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="share-modal" tabindex="-1" aria-labelledby="share-modal" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-body" id="share-modal-content">
+                <div class='alert alert-warning'>
+                    Chú ý: Khi bạn chia sẻ link dưới đây, người nhận sẽ có quyền highlight và lưu note lại. Bạn nên gửi cho giáo viên hoặc bạn bè quen biết để tránh bị spam highlights vào bài thi của mình.
+                </div>
+                <br/>
+                <p>Link:</p>
+                <p>https://study4.com/tests/4697/2024-practice-set-toeic-test-6/results/22005057/details/?code=22005057978814697</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+                    
+                </div>
+                
+            </div>
+            
+
+            <div class='footer-wrapper'>
+    <div class="footer-container">
+        <footer>
+
+            <div class='fb-like mb-2'>
+                <div class="fb-like" data-href="https://facebook.com/study4.support" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+            </div>
+
+            
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md">
+                    <a href='/'><img class="mb-2" src="/static/img/study4_new_logo_sm.png" alt="" height="30"></a>
+                    <small class="mb-2">©</small>
+                    <div class='site-socials' style="width: 140px !important;">
+                        <a target='_blank' href='https://facebook.com/study4.support'><span class='social-link fab fa-facebook-square'></span></a>
+                        <a target='_blank' href='https://instagram.com/study4.official'><span class='social-link fab fa-instagram'></span></a>
+                        <a target='_blank' href='https://twitter.com/study4Official'><span class='social-link fab fa-twitter'></span></a>
+                        <a target='_blank' href='https://youtube.com/@STUDY4Official'><span class='social-link fab fa-youtube'></span></a>
+                        
+                        <a target='_blank' href='https://www.tiktok.com/@study4.ielts'><span class='social-link fab fa-tiktok'></span></a>
+                    </div>
+                </div>
+                <div class="col-6 col-md">
+                    <div class='footer-title'>Về STUDY4</div>
+                    <ul class="list-unstyled text-small">
+                        <li><a href="/about/">Giới thiệu</a></li>
+                        <li><a href="/contact/">Liên hệ</a></li>
+                        <li><a href="/privacy/">Điều khoản bảo mật</a></li>
+                        <li><a href="/terms/">Điều khoản sử dụng</a></li>
+                    </ul>
+                </div>
+                
+                <div class="col-6 col-md">
+                    <div class='footer-title'>Tài nguyên</div>
+                    <ul class="list-unstyled text-small">
+                        
+                        <li><a href="/tests/">Thư viện đề thi</a></li>
+                        <li><a href="/posts/">Blog</a></li>
+                        <li><a href="/materials/">Kho tài liệu</a></li>
+                        
+                        
+                    </ul>
+                </div>
+                <div class="col-6 col-md">
+                    <div class='footer-title'>Chính sách chung</div>
+                    <ul class="list-unstyled text-small">
+                        <li><a href="/user-guide/">Hướng dẫn sử dụng</a></li>
+                        <li><a href="/buying-guide/">Hướng dẫn thanh toán</a></li>
+                        
+                        <li><a href="/buying-terms/">Điều khoản và Điều Kiện Giao Dịch</a></li>
+                        <li><a href="/checkout-policy">Chính sách kiểm hàng</a></li>
+                        <li><a href="/delivery-policy">Chính sách giao, nhận hàng</a></li>
+                        <li><a href="/feedback/">Phản hồi, khiếu nại</a></li>
+                        <li><a href="/return-policy">Chính sách chuyển đổi, hoàn hủy</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class='footer-addresses'>
+                <div class="row">
+                    <div class="col-12 col-md">
+                        <h5  class="mb-2">Thông tin doanh nghiệp</h5>
+                        <ul>
+                            <li>CÔNG TY TNHH CÔNG NGHỆ A PLUS</li>
+                            <li>Điện thoại liên hệ/Hotline: 096 369 5525</li>
+                            <li>Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c0b3b4b5a4b9f4eeb4a5a1ad80a7ada1a9aceea3afad">[email&#160;protected]</a></li>
+                            <li>Địa chỉ trụ sở: Số 15, Ngõ 208 Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam</li>
+                            <li>Giấy chứng nhận Đăng ký doanh nghiệp số: 0109675459 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp</li>
+                            <li>Ngày cấp phép: 17/06/2021</li>
+                            <li>CS1: TRUNG TÂM NGOẠI NGỮ STUDY4 - Số 17, Ngõ 208 Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam - Quyết định cho phép Trung tâm ngoại ngữ hoạt động số 2654/QĐ-SGDĐT Hà Nội</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class='footer-copyright text-center'>
+                STUDY4.COM © Bản quyền của Công ty TNHH Công Nghệ A Plus.
+            </div>
+        </footer>
+    </div>
+</div>
+        </div>
+
+        <div class="modal" id="site-modal-lg" tabindex="-1" aria-labelledby="site-modal-lg" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="modal-body" id="site-modal-lg-content"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal" id="site-modal-md" tabindex="-1" aria-labelledby="site-modal-md" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+            <div class="modal-dialog modal-md">
+                <div class="modal-content">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="modal-body" id="site-modal-md-content"></div>
+                </div>
+            </div>
+        </div>
+
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+    window.csrf_token = 'zY3KmWuA5ra2i8kZdozXzAWM0HQaMgt9alV1HHZSDVdSnufN9wF1yeWMd4Tl8C5P';
+    window.current_user =
+    
+    {
+        is_authenticated: true,
+        id: 97881,
+        name: "tiepnguyen.17102003",
+        is_admin: false,
+        is_staff: false,
+        is_superuser: false,
+    }
+    
+</script>
+        <script type='text/javascript' src="/static/ckeditor/ckeditor-init-override.js?v=1735269535"></script>
+        <script type='text/javascript' src="/static/ckeditor/ckeditor/ckeditor.js"></script>
+        <script type='text/javascript' src="/static/js/webaudiorecorder/WebAudioRecorder.min.js"></script>
+        <script type='text/javascript' src="/static/dist/vendor.ad60eb658fc650d75097.js?v=1735269535"></script>
+        <script type='text/javascript' src="/static/dist/main.651d8fa8cadf332cd75a.js?v=1735269535"></script>
+
+        
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+    $('.test-questions-listitem').on('click', function (e) {
+        var $this = $(this);
+        var qid = $this.attr('data-qid');
+        var $qinput = $(`[data-qid="${qid}"]`);
+        var $qwrapper = $(`#question-wrapper-${qid}`);
+        var part_content_id = $qinput.closest('.tab-pane')[0].id;
+        var $nav = $(`.nav-link[href="#${part_content_id}"]`);
+        $nav.tab('show');
+        setTimeout(function() {
+            $qwrapper[0].scrollIntoView({
+                block: 'center'
+            });
+            $qwrapper.css({border: '1px solid #ffd700'})
+            setTimeout(function() {
+                $qwrapper.css({border: ''});
+            }, 1000);
+        }, 150);
+        // window.topFunction();
+    });
+
+    var $nextpart = $('.nextpart');
+
+    $nextpart.on('click', function (e) {
+        e.preventDefault();
+        var $this = $(this);
+        var part_id = $this.attr('data-nextpart_id');
+        var $nav = $(`.nav-link[href="#partcontent-${part_id}"]`);
+        $nav.tab('show');
+        window.topFunction();
+    });
+
+    var stickySidebar = new StickySidebar('#test-navigation', {
+        topSpacing: 80,
+        bottomSpacing: 80,
+        containerSelector: '.test-wrapper',
+        innerWrapperSelector: '.test-navigation__inner',
+        resizeSensor: true,
+        stickyClass: 'is-affixed',
+        minWidth: 768,
+    });
+
+    $('.showtranscript-toggle').on('change', function() {
+        if ($('.showtranscript-toggle').is(':checked')) {
+            setTimeout(function() {
+                $('.context-transcript .collapse').collapse('show');
+            }, 50);
+            setTimeout(function() {
+                $('.question-explanation-wrapper .collapse').collapse('show');
+            }, 100);
+        } else {
+            setTimeout(function() {
+                $('.context-transcript .collapse').collapse('hide');
+            }, 50);
+            setTimeout(function() {
+                $('.question-explanation-wrapper .collapse').collapse('hide');
+            }, 100);
+        }
+    })
+
+    // $(function () {
+    //     if (window.hltr) {
+    //         window.hltr.webRestoreHighlights();
+    //     }
+    // })
+</script>
+
+        <script>
+            function isFacebookApp() {
+                var ua = navigator.userAgent || navigator.vendor || window.opera;
+                return (ua.indexOf("FBAN") > -1) || (ua.indexOf("FBAV") > -1);
+            }
+            if (isFacebookApp()) {
+                $('.g-login-block').hide();
+            }
+        </script>
+
+        
+
+        
+        
+        
+
+
+        
+        
+        
+
+
+        
+        <script>
+            (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+                w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+                m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://mautic.study4.com/mtc.js','mt');
+
+            
+                
+                mt('send', 'pageview', {
+                    email: "tiepnguyen.17102003@gmail.com",
+                    uid: "97881",
+                    username: "tiepnguyen.17102003",
+                    is_paid: false,
+                    is_trial: true
+                });
+                
+            
+        </script>
+        
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8fabf22ef90efda2","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2024.10.5","token":"8d646591bd144e069b89dada41cfc02b"}' crossorigin="anonymous"></script>
+</body>
+</html>

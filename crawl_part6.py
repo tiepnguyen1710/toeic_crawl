@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 # Mở và đọc file HTML
-with open('part6.txt', 'r', encoding='utf-8') as file:
+with open('text/eco_1/part6.txt', 'r', encoding='utf-8') as file:
     soup = BeautifulSoup(file, 'html.parser')
 
 # Lấy tất cả các phần tử cần crawl theo class
@@ -48,11 +48,11 @@ for i, (question_wrapper, image_div, transcript_div) in enumerate(zip(question_w
     for index, image_tag in enumerate(image_tags):
         image_obj = {}
         if image_tag:
-            image_obj['img'] = image_tag.get('data-src') if 'data-src' in image_tag.attrs else image_tag.get('src')
+            image_obj['fileUrl'] = image_tag.get('data-src') if 'data-src' in image_tag.attrs else image_tag.get('src')
             image_obj['index'] = index
             obj['image'].append(image_obj)
         else:
-            obj['image'].append({'img': 'No image tag found', 'index': index})
+            obj['image'].append({'fileUrl': 'No image tag found', 'index': index})
 
     # In chi tiết transcripts
     collapse_div = transcript_div.find('div', class_='collapse')
@@ -81,6 +81,7 @@ for i, (question_wrapper, image_div, transcript_div) in enumerate(zip(question_w
                 if question_text: 
                     question = question_text.text.strip()
                     question_data['question'] = question
+                
 
             # Lấy phần giải thích từ question-explanation-wrapper
             explanation_wrapper = question_wrapper.find_next('div', class_='question-explanation-wrapper')
@@ -91,7 +92,7 @@ for i, (question_wrapper, image_div, transcript_div) in enumerate(zip(question_w
                     question_data['explain'] = explain_html
 
         # Lấy thông tin câu hỏi (nếu có) và đáp án
-        #question_data['question'] = ''  # Bạn có thể thêm nội dung câu hỏi nếu có
+        question_data['question'] = ''  # Bạn có thể thêm nội dung câu hỏi nếu có
         question_data['answer'] = ['Statement A.', 'Statement B.', 'Statement C.', 'Statement C.']  # Mảng đáp án với 4 phần tử
         question_data['correctAnswer'] = ''  # Đáp án đúng sẽ được thêm sau
 

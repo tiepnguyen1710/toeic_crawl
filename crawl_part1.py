@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 # Mở và đọc file HTML
-with open('part11.txt', 'r', encoding='utf-8') as file:
+with open('text/2022_3/part1.txt', 'r', encoding='utf-8') as file:
     soup = BeautifulSoup(file, 'html.parser')
 
 # Lấy tất cả các phần tử cần crawl theo class
@@ -30,29 +30,29 @@ data = []
 for i, (audio_div, image_div, transcript_div) in enumerate(zip(audio_sources, images, transcripts)):
     #print(f"i = {i}, audio_div = {audio_div}, image_div = {image_div}, transcript_div = {transcript_div}")
     # Khởi tạo đối tượng cho từng phần tử
-    obj = {'audio': '', 'image': [], 'transcript': '' , 'questionData' : []}
+    obj = {'audioUrl': '', 'image': [], 'transcript': '' , 'questionData' : []}
 
     # In chi tiết audio sources
     audio_tag = audio_div.find('audio')
     if audio_tag:
         audio_source = audio_tag.find('source')
         if audio_source:
-            obj['audio'] = audio_source.get('src')
+            obj['audioUrl'] = audio_source.get('src')
         else:
-            obj['audio'] = 'No audio source found'
+            obj['audioUrl'] = 'No audio source found'
     else:
-        obj['audio'] = 'No audio tag found'
+        obj['audioUrl'] = 'No audio tag found'
 
     # Lấy thông tin image
     image_tags = image_div.find_all('img')
     for index, image_tag in enumerate(image_tags):
         image_obj = {}
         if image_tag:
-            image_obj['img'] = image_tag.get('data-src') if 'data-src' in image_tag.attrs else image_tag.get('src')
+            image_obj['fileUrl'] = image_tag.get('data-src') if 'data-src' in image_tag.attrs else image_tag.get('src')
             image_obj['index'] = index
             obj['image'].append(image_obj)
         else:
-            obj['image'].append({'img': 'No image tag found', 'index': index})
+            obj['image'].append({'fileUrl': 'No image tag found', 'index': index})
 
     # In chi tiết transcripts
     collapse_div = transcript_div.find('div', class_='collapse')

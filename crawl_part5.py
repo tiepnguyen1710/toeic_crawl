@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 # Mở và đọc file HTML
-with open('part5.txt', 'r', encoding='utf-8') as file:
+with open('text/2022_3/part5.txt', 'r', encoding='utf-8') as file:
     soup = BeautifulSoup(file, 'html.parser')
 
 # Lấy tất cả các phần tử cần crawl theo class
